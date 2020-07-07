@@ -26,6 +26,14 @@ body {
     padding-right: 2rem;
     text-align: center;
 }
+#year-selected {
+    background: #1414ff;
+    color: white;
+    padding: .5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
 .year-label {
     text-align: center;
     font-size: 55px;
