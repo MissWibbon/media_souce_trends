@@ -1,0 +1,35 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #e7e7e7;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.jumbotron {
+    background-image: url(https://ak.picdn.net/shutterstock/videos/8877400/thumb/1.jpg);
+    background-color: red;
+    color: white;
+    padding: 2rem;
+    background-blend-mode: multiply;
+    margin: -8px;
+    margin-bottom: 0px;
+}
+.jumbotron p {
+    background: rgba(0,0,0,0.5);
+    padding: .5rem;
+    border-radius: 5px;
+}
+.top-detail {display: flex; place-content: center;}
+.logo-wrap {padding-top: 1rem; align-items: center; font-size: 30px; display: flex; align-items: center;}
+.logo-img {max-width: 100px; padding: .5rem; margin-top: 1rem; align-self: center; margin: auto;}
+.logo-img img {width: 100%;}
+.year-select {
+    align-self: center;
+    padding-right: 2rem;
+    text-align: center;
+}
+.year-label {
+    text-align: center;
+    font-size: 55px;
+}
+#years {
+    font-size: 20px;
+}
