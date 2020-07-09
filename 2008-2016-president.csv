@@ -1,0 +1,899 @@
+year,state,state_po,state_cen,state_ic,office,candidate,party,writein,candidatevotes,totalvotes
+2008,Alabama,AL,63,41,US President,"McCain, John",republican,FALSE,1266546,2099819
+2008,Alabama,AL,63,41,US President,"Obama, Barack H.",democrat,FALSE,813479,2099819
+2008,Alaska,AK,94,81,US President,"McCain, John",republican,FALSE,193841,326197
+2008,Alaska,AK,94,81,US President,"Obama, Barack H.",democrat,FALSE,123594,326197
+2008,Alaska,AK,94,81,US President,"Nader, Ralph",independent,FALSE,3783,326197
+2008,Alaska,AK,94,81,US President,"Baldwin, Charles """"Chuck""""",alaskan independence party,FALSE,1660,326197
+2008,Alaska,AK,94,81,US President,"Barr, Bob",libertarian,FALSE,1589,326197
+2008,Arizona,AZ,86,61,US President,"McCain, John",republican,FALSE,1230111,2293475
+2008,Arizona,AZ,86,61,US President,"Obama, Barack H.",democrat,FALSE,1034707,2293475
+2008,Arizona,AZ,86,61,US President,"Barr, Bob",libertarian,FALSE,12555,2293475
+2008,Arizona,AZ,86,61,US President,"Nader, Ralph",independent,FALSE,11301,2293475
+2008,Arizona,AZ,86,61,US President,"McKinney, Cynthia",green,FALSE,3406,2293475
+2008,Arkansas,AR,71,42,US President,"McCain, John",republican,FALSE,638017,1086617
+2008,Arkansas,AR,71,42,US President,"Obama, Barack H.",democrat,FALSE,422310,1086617
+2008,Arkansas,AR,71,42,US President,"Nader, Ralph",independent,FALSE,12882,1086617
+2008,Arkansas,AR,71,42,US President,"Barr, Bob",libertarian,FALSE,4776,1086617
+2008,Arkansas,AR,71,42,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,4023,1086617
+2008,Arkansas,AR,71,42,US President,"McKinney, Cynthia",green,FALSE,3470,1086617
+2008,Arkansas,AR,71,42,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1139,1086617
+2008,California,CA,93,71,US President,"Obama, Barack H.",democrat,FALSE,8274473,13561900
+2008,California,CA,93,71,US President,"McCain, John",republican,FALSE,5011781,13561900
+2008,California,CA,93,71,US President,"Nader, Ralph",peace & freedom,FALSE,108381,13561900
+2008,California,CA,93,71,US President,"Barr, Bob",libertarian,FALSE,67582,13561900
+2008,California,CA,93,71,US President,"Keyes, Alan",american independent party,FALSE,40673,13561900
+2008,California,CA,93,71,US President,"McKinney, Cynthia",green,FALSE,38774,13561900
+2008,Colorado,CO,84,62,US President,"Obama, Barack H.",democrat,FALSE,1288576,2401361
+2008,Colorado,CO,84,62,US President,"McCain, John",republican,FALSE,1073589,2401361
+2008,Colorado,CO,84,62,US President,"Nader, Ralph",independent,FALSE,13350,2401361
+2008,Colorado,CO,84,62,US President,"Barr, Bob",libertarian,FALSE,10897,2401361
+2008,Colorado,CO,84,62,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,6233,2401361
+2008,Colorado,CO,84,62,US President,"Keyes, Alan",america's independent party,FALSE,3051,2401361
+2008,Colorado,CO,84,62,US President,"McKinney, Cynthia",green,FALSE,2822,2401361
+2008,Colorado,CO,84,62,US President,"McEnulty, Frank",unaffiliated,FALSE,828,2401361
+2008,Colorado,CO,84,62,US President,"Jay, Charles",boston tea party,FALSE,598,2401361
+2008,Colorado,CO,84,62,US President,"Allen, Jonathan",heartquake '08,FALSE,348,2401361
+2008,Colorado,CO,84,62,US President,"Stevens, Thomas R.",objectivist party,FALSE,336,2401361
+2008,Colorado,CO,84,62,US President,"Moore, Brian",socialist,FALSE,226,2401361
+2008,Colorado,CO,84,62,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,158,2401361
+2008,Colorado,CO,84,62,US President,"Harris, James",socialist workers,FALSE,154,2401361
+2008,Colorado,CO,84,62,US President,"Lyttle, Bradford",u.s. pacifist party,FALSE,110,2401361
+2008,Colorado,CO,84,62,US President,"Amondson, Gene",prohibition,FALSE,85,2401361
+2008,Connecticut,CT,16,1,US President,"Obama, Barack H.",democrat,FALSE,997772,1646792
+2008,Connecticut,CT,16,1,US President,"McCain, John",republican,FALSE,629428,1646792
+2008,Connecticut,CT,16,1,US President,"Nader, Ralph",independent,FALSE,19162,1646792
+2008,Delaware,DE,51,11,US President,"Obama, Barack H.",democrat,FALSE,255459,412412
+2008,Delaware,DE,51,11,US President,"McCain, John",republican,FALSE,152374,412412
+2008,Delaware,DE,51,11,US President,"Nader, Ralph",independent,FALSE,2401,412412
+2008,Delaware,DE,51,11,US President,"Barr, Bob",libertarian,FALSE,1109,412412
+2008,Delaware,DE,51,11,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,626,412412
+2008,Delaware,DE,51,11,US President,"McKinney, Cynthia",green,FALSE,385,412412
+2008,Delaware,DE,51,11,US President,"Calero, Roger",socialist workers,FALSE,58,412412
+2008,District of Columbia,DC,53,55,US President,"Obama, Barack H.",democrat,FALSE,245800,265853
+2008,District of Columbia,DC,53,55,US President,"McCain, John",republican,FALSE,17367,265853
+2008,District of Columbia,DC,53,55,US President,"Nader, Ralph",independent,FALSE,958,265853
+2008,District of Columbia,DC,53,55,US President,"McKinney, Cynthia",green,FALSE,590,265853
+2008,Florida,FL,59,43,US President,"Obama, Barack H.",democrat,FALSE,4282074,8390744
+2008,Florida,FL,59,43,US President,"McCain, John",republican,FALSE,4045624,8390744
+2008,Florida,FL,59,43,US President,"Nader, Ralph",ecology party of florida,FALSE,28124,8390744
+2008,Florida,FL,59,43,US President,"Barr, Bob",libertarian,FALSE,17218,8390744
+2008,Florida,FL,59,43,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,7915,8390744
+2008,Florida,FL,59,43,US President,"McKinney, Cynthia",green,FALSE,2887,8390744
+2008,Florida,FL,59,43,US President,"Keyes, Alan",america's independent party,FALSE,2550,8390744
+2008,Florida,FL,59,43,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1516,8390744
+2008,Florida,FL,59,43,US President,"Jay, Charles",boston tea party,FALSE,795,8390744
+2008,Florida,FL,59,43,US President,"Calero, Roger",socialist workers,FALSE,533,8390744
+2008,Florida,FL,59,43,US President,"Stevens, Thomas R.",objectivist party,FALSE,419,8390744
+2008,Florida,FL,59,43,US President,"Moore, Brian",socialist,FALSE,405,8390744
+2008,Florida,FL,59,43,US President,"Amondson, Gene",prohibition,FALSE,293,8390744
+2008,Georgia,GA,58,44,US President,"McCain, John",republican,FALSE,2048759,3924486
+2008,Georgia,GA,58,44,US President,"Obama, Barack H.",democrat,FALSE,1844123,3924486
+2008,Georgia,GA,58,44,US President,"Barr, Bob",libertarian,FALSE,28731,3924486
+2008,Hawaii,HI,95,82,US President,"Obama, Barack H.",democrat,FALSE,325871,456064
+2008,Hawaii,HI,95,82,US President,"McCain, John",republican,FALSE,120566,456064
+2008,Hawaii,HI,95,82,US President,"Nader, Ralph",independent,FALSE,3825,456064
+2008,Hawaii,HI,95,82,US President,Blank Vote,,FALSE,2193,456064
+2008,Hawaii,HI,95,82,US President,"Barr, Bob",libertarian,FALSE,1314,456064
+2008,Hawaii,HI,95,82,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,1013,456064
+2008,Hawaii,HI,95,82,US President,"McKinney, Cynthia",green,FALSE,979,456064
+2008,Hawaii,HI,95,82,US President,Over Vote,,FALSE,303,456064
+2008,Idaho,ID,82,63,US President,"McCain, John",republican,FALSE,403012,655122
+2008,Idaho,ID,82,63,US President,"Obama, Barack H.",democrat,FALSE,236440,655122
+2008,Idaho,ID,82,63,US President,"Nader, Ralph",independent,FALSE,7175,655122
+2008,Idaho,ID,82,63,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,4747,655122
+2008,Idaho,ID,82,63,US President,"Barr, Bob",libertarian,FALSE,3658,655122
+2008,Illinois,IL,33,21,US President,"Obama, Barack H.",democrat,FALSE,3419348,5522371
+2008,Illinois,IL,33,21,US President,"McCain, John",republican,FALSE,2031179,5522371
+2008,Illinois,IL,33,21,US President,"Nader, Ralph",independent,FALSE,30948,5522371
+2008,Illinois,IL,33,21,US President,"Barr, Bob",libertarian,FALSE,19642,5522371
+2008,Illinois,IL,33,21,US President,"McKinney, Cynthia",green,FALSE,11838,5522371
+2008,Illinois,IL,33,21,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,8256,5522371
+2008,Indiana,IN,32,22,US President,"Obama, Barack H.",democrat,FALSE,1374039,2751054
+2008,Indiana,IN,32,22,US President,"McCain, John",republican,FALSE,1345648,2751054
+2008,Indiana,IN,32,22,US President,"Barr, Bob",libertarian,FALSE,29257,2751054
+2008,Indiana,IN,32,22,US President,"Nader, Ralph",independent,TRUE,909,2751054
+2008,Iowa,IA,42,31,US President,"Obama, Barack H.",democrat,FALSE,828940,1537123
+2008,Iowa,IA,42,31,US President,"McCain, John",republican,FALSE,682379,1537123
+2008,Iowa,IA,42,31,US President,"Nader, Ralph",peace & freedom,FALSE,8014,1537123
+2008,Iowa,IA,42,31,US President,"Barr, Bob",libertarian,FALSE,4590,1537123
+2008,Iowa,IA,42,31,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,4445,1537123
+2008,Iowa,IA,42,31,US President,"McKinney, Cynthia",green,FALSE,1423,1537123
+2008,Iowa,IA,42,31,US President,"Harris, James",socialist workers,FALSE,292,1537123
+2008,Iowa,IA,42,31,US President,"Moore, Brian",socialist,FALSE,182,1537123
+2008,Iowa,IA,42,31,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,121,1537123
+2008,Kansas,KS,47,32,US President,"McCain, John",republican,FALSE,699655,1235872
+2008,Kansas,KS,47,32,US President,"Obama, Barack H.",democrat,FALSE,514765,1235872
+2008,Kansas,KS,47,32,US President,"Nader, Ralph",independent,FALSE,10598,1235872
+2008,Kansas,KS,47,32,US President,"Barr, Bob",libertarian,FALSE,6706,1235872
+2008,Kansas,KS,47,32,US President,"Baldwin, Charles """"Chuck""""",reform party,FALSE,4148,1235872
+2008,Kentucky,KY,61,51,US President,"McCain, John",republican,FALSE,1048462,1826620
+2008,Kentucky,KY,61,51,US President,"Obama, Barack H.",democrat,FALSE,751985,1826620
+2008,Kentucky,KY,61,51,US President,"Nader, Ralph",independent,FALSE,15378,1826620
+2008,Kentucky,KY,61,51,US President,"Barr, Bob",libertarian,FALSE,5989,1826620
+2008,Kentucky,KY,61,51,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,4694,1826620
+2008,Louisiana,LA,72,45,US President,"McCain, John",republican,FALSE,1148275,1960761
+2008,Louisiana,LA,72,45,US President,"Obama, Barack H.",democrat,FALSE,782989,1960761
+2008,Louisiana,LA,72,45,US President,"Paul, Ronald """"Ron""""",louisiana taxpayers party,FALSE,9368,1960761
+2008,Louisiana,LA,72,45,US President,"McKinney, Cynthia",green,FALSE,9187,1960761
+2008,Louisiana,LA,72,45,US President,"Nader, Ralph",independent,FALSE,6997,1960761
+2008,Louisiana,LA,72,45,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,2581,1960761
+2008,Louisiana,LA,72,45,US President,"Harris, James",socialist workers,FALSE,735,1960761
+2008,Louisiana,LA,72,45,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,354,1960761
+2008,Louisiana,LA,72,45,US President,"Amondson, Gene",prohibition,FALSE,275,1960761
+2008,Maine,ME,11,2,US President,"Obama, Barack H.",democrat,FALSE,421923,731163
+2008,Maine,ME,11,2,US President,"McCain, John",republican,FALSE,295273,731163
+2008,Maine,ME,11,2,US President,"Nader, Ralph",independent,FALSE,10636,731163
+2008,Maine,ME,11,2,US President,"McKinney, Cynthia",green,FALSE,2900,731163
+2008,Maine,ME,11,2,US President,Other,,FALSE,431,731163
+2008,Maryland,MD,52,52,US President,"Obama, Barack H.",democrat,FALSE,1629467,2631596
+2008,Maryland,MD,52,52,US President,"McCain, John",republican,FALSE,959862,2631596
+2008,Maryland,MD,52,52,US President,"Nader, Ralph",independent,FALSE,14713,2631596
+2008,Maryland,MD,52,52,US President,"Barr, Bob",libertarian,FALSE,9842,2631596
+2008,Maryland,MD,52,52,US President,"McKinney, Cynthia",green,FALSE,4747,2631596
+2008,Maryland,MD,52,52,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,3760,2631596
+2008,Massachusetts,MA,14,3,US President,"Obama, Barack H.",democrat,FALSE,1904097,3102995
+2008,Massachusetts,MA,14,3,US President,"McCain, John",republican,FALSE,1108854,3102995
+2008,Massachusetts,MA,14,3,US President,"Nader, Ralph",independent,FALSE,28841,3102995
+2008,Massachusetts,MA,14,3,US President,Blank Vote/Scattering,,FALSE,22010,3102995
+2008,Massachusetts,MA,14,3,US President,Other,,FALSE,14483,3102995
+2008,Massachusetts,MA,14,3,US President,"Barr, Bob",libertarian,FALSE,13189,3102995
+2008,Massachusetts,MA,14,3,US President,"McKinney, Cynthia",green,FALSE,6550,3102995
+2008,Massachusetts,MA,14,3,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,4971,3102995
+2008,Michigan,MI,34,23,US President,"Obama, Barack H.",democrat,FALSE,2872579,5001596
+2008,Michigan,MI,34,23,US President,"McCain, John",republican,FALSE,2048639,5001596
+2008,Michigan,MI,34,23,US President,"Nader, Ralph",natural law,FALSE,33085,5001596
+2008,Michigan,MI,34,23,US President,"Barr, Bob",libertarian,FALSE,23716,5001596
+2008,Michigan,MI,34,23,US President,"Baldwin, Charles """"Chuck""""",u.s. taxpayers party,FALSE,14685,5001596
+2008,Michigan,MI,34,23,US President,"McKinney, Cynthia",green,FALSE,8892,5001596
+2008,Minnesota,MN,41,33,US President,"Obama, Barack H.",democrat,FALSE,1573354,2910369
+2008,Minnesota,MN,41,33,US President,"McCain, John",republican,FALSE,1275409,2910369
+2008,Minnesota,MN,41,33,US President,"Nader, Ralph",independent,FALSE,30152,2910369
+2008,Minnesota,MN,41,33,US President,"Barr, Bob",libertarian,FALSE,9174,2910369
+2008,Minnesota,MN,41,33,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,6787,2910369
+2008,Minnesota,MN,41,33,US President,"McKinney, Cynthia",green,FALSE,5174,2910369
+2008,Minnesota,MN,41,33,US President,"Calero, Roger",socialist workers,FALSE,790,2910369
+2008,Mississippi,MS,64,46,US President,"McCain, John",republican,FALSE,724597,1289865
+2008,Mississippi,MS,64,46,US President,"Obama, Barack H.",democrat,FALSE,554662,1289865
+2008,Mississippi,MS,64,46,US President,"Nader, Ralph",independent,FALSE,4011,1289865
+2008,Mississippi,MS,64,46,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,2551,1289865
+2008,Mississippi,MS,64,46,US President,"Barr, Bob",libertarian,FALSE,2529,1289865
+2008,Mississippi,MS,64,46,US President,"McKinney, Cynthia",green,FALSE,1034,1289865
+2008,Mississippi,MS,64,46,US President,"Weill, Ted",reform party,FALSE,481,1289865
+2008,Missouri,MO,43,34,US President,"McCain, John",republican,FALSE,1445814,2925205
+2008,Missouri,MO,43,34,US President,"Obama, Barack H.",democrat,FALSE,1441911,2925205
+2008,Missouri,MO,43,34,US President,"Nader, Ralph",independent,FALSE,17813,2925205
+2008,Missouri,MO,43,34,US President,"Barr, Bob",libertarian,FALSE,11386,2925205
+2008,Missouri,MO,43,34,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,8201,2925205
+2008,Missouri,MO,43,34,US President,"McKinney, Cynthia",,TRUE,80,2925205
+2008,Montana,MT,81,64,US President,"McCain, John",republican,FALSE,242763,490109
+2008,Montana,MT,81,64,US President,"Obama, Barack H.",democrat,FALSE,231667,490109
+2008,Montana,MT,81,64,US President,"Paul, Ronald """"Ron""""",constitution party,FALSE,10638,490109
+2008,Montana,MT,81,64,US President,"Nader, Ralph",independent,FALSE,3686,490109
+2008,Montana,MT,81,64,US President,"Barr, Bob",libertarian,FALSE,1355,490109
+2008,Nebraska,NE,46,35,US President,"McCain, John",republican,FALSE,452979,801281
+2008,Nebraska,NE,46,35,US President,"Obama, Barack H.",democrat,FALSE,333319,801281
+2008,Nebraska,NE,46,35,US President,"Nader, Ralph",independent,FALSE,5406,801281
+2008,Nebraska,NE,46,35,US President,"Baldwin, Charles """"Chuck""""",nebraska party,FALSE,2972,801281
+2008,Nebraska,NE,46,35,US President,"Barr, Bob",libertarian,FALSE,2740,801281
+2008,Nebraska,NE,46,35,US President,"McKinney, Cynthia",green,FALSE,1028,801281
+2008,Nevada,NV,88,65,US President,"Obama, Barack H.",democrat,FALSE,533736,967848
+2008,Nevada,NV,88,65,US President,"McCain, John",republican,FALSE,412827,967848
+2008,Nevada,NV,88,65,US President,None Of These Candidates,,FALSE,6267,967848
+2008,Nevada,NV,88,65,US President,"Nader, Ralph",independent,FALSE,6150,967848
+2008,Nevada,NV,88,65,US President,"Barr, Bob",libertarian,FALSE,4263,967848
+2008,Nevada,NV,88,65,US President,"Baldwin, Charles """"Chuck""""",independent american,FALSE,3194,967848
+2008,Nevada,NV,88,65,US President,"McKinney, Cynthia",green,FALSE,1411,967848
+2008,New Hampshire,NH,12,4,US President,"Obama, Barack H.",democrat,FALSE,384826,710970
+2008,New Hampshire,NH,12,4,US President,"McCain, John",republican,FALSE,316534,710970
+2008,New Hampshire,NH,12,4,US President,"Nader, Ralph",independent,FALSE,3503,710970
+2008,New Hampshire,NH,12,4,US President,"Barr, Bob",libertarian,FALSE,2748,710970
+2008,New Jersey,NJ,22,12,US President,"Obama, Barack H.",democrat,FALSE,2215422,3868237
+2008,New Jersey,NJ,22,12,US President,"McCain, John",republican,FALSE,1613207,3868237
+2008,New Jersey,NJ,22,12,US President,"Nader, Ralph",independent,FALSE,21298,3868237
+2008,New Jersey,NJ,22,12,US President,"Barr, Bob",libertarian,FALSE,8441,3868237
+2008,New Jersey,NJ,22,12,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,3956,3868237
+2008,New Jersey,NJ,22,12,US President,"McKinney, Cynthia",green,FALSE,3636,3868237
+2008,New Jersey,NJ,22,12,US President,"Moore, Brian",socialist,FALSE,699,3868237
+2008,New Jersey,NJ,22,12,US President,"Boss, Jeffery",vote here,FALSE,639,3868237
+2008,New Jersey,NJ,22,12,US President,"Calero, Roger",socialist workers,FALSE,523,3868237
+2008,New Jersey,NJ,22,12,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,416,3868237
+2008,New Mexico,NM,85,66,US President,"Obama, Barack H.",democrat,FALSE,472422,830158
+2008,New Mexico,NM,85,66,US President,"McCain, John",republican,FALSE,346832,830158
+2008,New Mexico,NM,85,66,US President,"Nader, Ralph",independent,FALSE,5327,830158
+2008,New Mexico,NM,85,66,US President,"Barr, Bob",libertarian,FALSE,2428,830158
+2008,New Mexico,NM,85,66,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,1597,830158
+2008,New Mexico,NM,85,66,US President,"McKinney, Cynthia",green,FALSE,1552,830158
+2008,New York,NY,21,13,US President,"Obama, Barack H.",democrat,FALSE,4645332,7722019
+2008,New York,NY,21,13,US President,"McCain, John",republican,FALSE,2418323,7722019
+2008,New York,NY,21,13,US President,"McCain, John",conservative,FALSE,170475,7722019
+2008,New York,NY,21,13,US President,"McCain, John",independence,FALSE,163973,7722019
+2008,New York,NY,21,13,US President,"Obama, Barack H.",working families,FALSE,159613,7722019
+2008,New York,NY,21,13,US President,Blank Vote/Scattering,,FALSE,84701,7722019
+2008,New York,NY,21,13,US President,"Nader, Ralph",populist,FALSE,41249,7722019
+2008,New York,NY,21,13,US President,"Barr, Bob",libertarian,FALSE,19596,7722019
+2008,New York,NY,21,13,US President,"McKinney, Cynthia",green,FALSE,12801,7722019
+2008,New York,NY,21,13,US President,"Harris, James",socialist workers,FALSE,3615,7722019
+2008,New York,NY,21,13,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1639,7722019
+2008,North Carolina,NC,56,47,US President,"Obama, Barack H.",democrat,FALSE,2142651,4310851
+2008,North Carolina,NC,56,47,US President,"McCain, John",republican,FALSE,2128474,4310851
+2008,North Carolina,NC,56,47,US President,"Barr, Bob",libertarian,FALSE,25722,4310851
+2008,North Carolina,NC,56,47,US President,"Nader, Ralph",independent,TRUE,1510,4310851
+2008,North Dakota,ND,44,36,US President,"McCain, John",republican,FALSE,168601,316621
+2008,North Dakota,ND,44,36,US President,"Obama, Barack H.",democrat,FALSE,141278,316621
+2008,North Dakota,ND,44,36,US President,"Nader, Ralph",independent,FALSE,4189,316621
+2008,North Dakota,ND,44,36,US President,"Barr, Bob",libertarian,FALSE,1354,316621
+2008,North Dakota,ND,44,36,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,1199,316621
+2008,Ohio,OH,31,24,US President,"Obama, Barack H.",democrat,FALSE,2940044,5708350
+2008,Ohio,OH,31,24,US President,"McCain, John",republican,FALSE,2677820,5708350
+2008,Ohio,OH,31,24,US President,"Nader, Ralph",independent,FALSE,46242,5708350
+2008,Ohio,OH,31,24,US President,"Barr, Bob",libertarian,FALSE,19917,5708350
+2008,Ohio,OH,31,24,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,12565,5708350
+2008,Ohio,OH,31,24,US President,"McKinney, Cynthia",green,FALSE,8518,5708350
+2008,Ohio,OH,31,24,US President,"Moore, Brian",socialist,FALSE,2735,5708350
+2008,Oklahoma,OK,73,53,US President,"McCain, John",republican,FALSE,960165,1462661
+2008,Oklahoma,OK,73,53,US President,"Obama, Barack H.",democrat,FALSE,502496,1462661
+2008,Oregon,OR,92,72,US President,"Obama, Barack H.",democrat,FALSE,1037291,1827864
+2008,Oregon,OR,92,72,US President,"McCain, John",republican,FALSE,738475,1827864
+2008,Oregon,OR,92,72,US President,"Nader, Ralph",peace party,FALSE,18614,1827864
+2008,Oregon,OR,92,72,US President,Other,,FALSE,13613,1827864
+2008,Oregon,OR,92,72,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,7693,1827864
+2008,Oregon,OR,92,72,US President,"McKinney, Cynthia",green,FALSE,4543,1827864
+2008,Pennsylvania,PA,23,14,US President,"Obama, Barack H.",democrat,FALSE,3276363,6013272
+2008,Pennsylvania,PA,23,14,US President,"McCain, John",republican,FALSE,2655885,6013272
+2008,Pennsylvania,PA,23,14,US President,"Nader, Ralph",independent,FALSE,42977,6013272
+2008,Pennsylvania,PA,23,14,US President,"Barr, Bob",libertarian,FALSE,19912,6013272
+2008,Pennsylvania,PA,23,14,US President,Scattering,,FALSE,8180,6013272
+2008,Rhode Island,RI,15,5,US President,"Obama, Barack H.",democrat,FALSE,296571,471766
+2008,Rhode Island,RI,15,5,US President,"McCain, John",republican,FALSE,165391,471766
+2008,Rhode Island,RI,15,5,US President,"Nader, Ralph",independent,FALSE,4829,471766
+2008,Rhode Island,RI,15,5,US President,"Barr, Bob",libertarian,FALSE,1382,471766
+2008,Rhode Island,RI,15,5,US President,"McKinney, Cynthia",green,FALSE,797,471766
+2008,Rhode Island,RI,15,5,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,675,471766
+2008,Rhode Island,RI,15,5,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,122,471766
+2008,South Carolina,SC,57,48,US President,"McCain, John",republican,FALSE,1034896,1920969
+2008,South Carolina,SC,57,48,US President,"Obama, Barack H.",democrat,FALSE,862449,1920969
+2008,South Carolina,SC,57,48,US President,"Barr, Bob",libertarian,FALSE,7283,1920969
+2008,South Carolina,SC,57,48,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,6827,1920969
+2008,South Carolina,SC,57,48,US President,"Nader, Ralph",independent,FALSE,5053,1920969
+2008,South Carolina,SC,57,48,US President,"McKinney, Cynthia",green,FALSE,4461,1920969
+2008,South Dakota,SD,45,37,US President,"McCain, John",republican,FALSE,203054,381975
+2008,South Dakota,SD,45,37,US President,"Obama, Barack H.",democrat,FALSE,170924,381975
+2008,South Dakota,SD,45,37,US President,"Nader, Ralph",independent,FALSE,4267,381975
+2008,South Dakota,SD,45,37,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,1895,381975
+2008,South Dakota,SD,45,37,US President,"Barr, Bob",libertarian,FALSE,1835,381975
+2008,Tennessee,TN,62,54,US President,"McCain, John",republican,FALSE,1479178,2599749
+2008,Tennessee,TN,62,54,US President,"Obama, Barack H.",democrat,FALSE,1087437,2599749
+2008,Texas,TX,74,49,US President,"McCain, John",republican,FALSE,4479328,8077795
+2008,Texas,TX,74,49,US President,"Obama, Barack H.",democrat,FALSE,3528633,8077795
+2008,Texas,TX,74,49,US President,"Barr, Bob",libertarian,FALSE,56116,8077795
+2008,Texas,TX,74,49,US President,"Nader, Ralph",independent,TRUE,5751,8077795
+2008,Utah,UT,87,67,US President,"McCain, John",republican,FALSE,596030,952370
+2008,Utah,UT,87,67,US President,"Obama, Barack H.",democrat,FALSE,327670,952370
+2008,Utah,UT,87,67,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,12012,952370
+2008,Utah,UT,87,67,US President,"Nader, Ralph",peace & freedom,FALSE,8416,952370
+2008,Utah,UT,87,67,US President,"Barr, Bob",libertarian,FALSE,6966,952370
+2008,Utah,UT,87,67,US President,"McKinney, Cynthia",green,FALSE,982,952370
+2008,Utah,UT,87,67,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,262,952370
+2008,Vermont,VT,13,6,US President,"Obama, Barack H.",democrat,FALSE,219262,325046
+2008,Vermont,VT,13,6,US President,"McCain, John",republican,FALSE,98974,325046
+2008,Vermont,VT,13,6,US President,"Nader, Ralph",independent,FALSE,3339,325046
+2008,Vermont,VT,13,6,US President,"Barr, Bob",libertarian,FALSE,1067,325046
+2008,Vermont,VT,13,6,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,500,325046
+2008,Vermont,VT,13,6,US President,"Calero, Roger",socialist workers,FALSE,150,325046
+2008,Vermont,VT,13,6,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,149,325046
+2008,Vermont,VT,13,6,US President,"Moore, Brian",liberty union party,FALSE,141,325046
+2008,Virginia,VA,54,40,US President,"Obama, Barack H.",democrat,FALSE,1959532,3723260
+2008,Virginia,VA,54,40,US President,"McCain, John",republican,FALSE,1725005,3723260
+2008,Virginia,VA,54,40,US President,"Nader, Ralph",independent,FALSE,11483,3723260
+2008,Virginia,VA,54,40,US President,"Barr, Bob",libertarian,FALSE,11067,3723260
+2008,Virginia,VA,54,40,US President,"Baldwin, Charles """"Chuck""""",independent green,FALSE,7474,3723260
+2008,Virginia,VA,54,40,US President,"McKinney, Cynthia",green,FALSE,2344,3723260
+2008,Washington,WA,91,73,US President,"Obama, Barack H.",democrat,FALSE,1750848,3036878
+2008,Washington,WA,91,73,US President,"McCain, John",republican,FALSE,1229216,3036878
+2008,Washington,WA,91,73,US President,"Nader, Ralph",independent,FALSE,29489,3036878
+2008,Washington,WA,91,73,US President,"Barr, Bob",libertarian,FALSE,12728,3036878
+2008,Washington,WA,91,73,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,9432,3036878
+2008,Washington,WA,91,73,US President,"McKinney, Cynthia",green,FALSE,3819,3036878
+2008,Washington,WA,91,73,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,705,3036878
+2008,Washington,WA,91,73,US President,"Harris, James",socialist workers,FALSE,641,3036878
+2008,West Virginia,WV,55,56,US President,"McCain, John",republican,FALSE,397466,713451
+2008,West Virginia,WV,55,56,US President,"Obama, Barack H.",democrat,FALSE,303857,713451
+2008,West Virginia,WV,55,56,US President,"Nader, Ralph",independent,FALSE,7219,713451
+2008,West Virginia,WV,55,56,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,2465,713451
+2008,West Virginia,WV,55,56,US President,"McKinney, Cynthia",mountain party,FALSE,2355,713451
+2008,Wisconsin,WI,35,25,US President,"Obama, Barack H.",democrat,FALSE,1677211,2983417
+2008,Wisconsin,WI,35,25,US President,"McCain, John",republican,FALSE,1262393,2983417
+2008,Wisconsin,WI,35,25,US President,"Nader, Ralph",independent,FALSE,17605,2983417
+2008,Wisconsin,WI,35,25,US President,"Barr, Bob",libertarian,FALSE,8858,2983417
+2008,Wisconsin,WI,35,25,US President,Scattering,,FALSE,6521,2983417
+2008,Wisconsin,WI,35,25,US President,"Baldwin, Charles """"Chuck""""",constitution party,FALSE,5072,2983417
+2008,Wisconsin,WI,35,25,US President,"McKinney, Cynthia",green,FALSE,4216,2983417
+2008,Wisconsin,WI,35,25,US President,"Wamboldt, Jeffrey",we the people,FALSE,764,2983417
+2008,Wisconsin,WI,35,25,US President,"Moore, Brian",socialist party usa,FALSE,540,2983417
+2008,Wisconsin,WI,35,25,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,237,2983417
+2008,Wyoming,WY,83,68,US President,"McCain, John",republican,FALSE,164958,254904
+2008,Wyoming,WY,83,68,US President,"Obama, Barack H.",democrat,FALSE,82868,254904
+2008,Wyoming,WY,83,68,US President,"Barr, Bob",libertarian,FALSE,1594,254904
+2008,Wyoming,WY,83,68,US President,Over Vote,,FALSE,246,254904
+2012,Alabama,AL,63,41,US President,"Romney, Mitt",republican,FALSE,1255925,2074338
+2012,Alabama,AL,63,41,US President,"Obama, Barack H.",democrat,FALSE,795696,2074338
+2012,Alaska,AK,94,81,US President,"Romney, Mitt",republican,FALSE,164676,300495
+2012,Alaska,AK,94,81,US President,"Obama, Barack H.",democrat,FALSE,122640,300495
+2012,Alaska,AK,94,81,US President,"Johnson, Gary",libertarian,FALSE,7392,300495
+2012,Alaska,AK,94,81,US President,"Stein, Jill",green,FALSE,2917,300495
+2012,Arizona,AZ,86,61,US President,"Romney, Mitt",republican,FALSE,1233654,2299254
+2012,Arizona,AZ,86,61,US President,"Obama, Barack H.",democrat,FALSE,1025232,2299254
+2012,Arizona,AZ,86,61,US President,"Johnson, Gary",libertarian,FALSE,32100,2299254
+2012,Arizona,AZ,86,61,US President,"Stein, Jill",green,FALSE,7816,2299254
+2012,Arkansas,AR,71,42,US President,"Romney, Mitt",republican,FALSE,647744,1069468
+2012,Arkansas,AR,71,42,US President,"Obama, Barack H.",democrat,FALSE,394409,1069468
+2012,Arkansas,AR,71,42,US President,"Johnson, Gary",libertarian,FALSE,16276,1069468
+2012,Arkansas,AR,71,42,US President,"Stein, Jill",green,FALSE,9305,1069468
+2012,Arkansas,AR,71,42,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1734,1069468
+2012,California,CA,93,71,US President,"Obama, Barack H.",democrat,FALSE,7854285,13038547
+2012,California,CA,93,71,US President,"Romney, Mitt",republican,FALSE,4839958,13038547
+2012,California,CA,93,71,US President,"Johnson, Gary",libertarian,FALSE,143221,13038547
+2012,California,CA,93,71,US President,"Stein, Jill",green,FALSE,85638,13038547
+2012,California,CA,93,71,US President,"Barr, Roseanne",peace & freedom,FALSE,53824,13038547
+2012,California,CA,93,71,US President,"Hoefling, Thomas Conrad """"Tom""""",american independent party,FALSE,38372,13038547
+2012,Colorado,CO,84,62,US President,"Obama, Barack H.",democrat,FALSE,1323101,2569516
+2012,Colorado,CO,84,62,US President,"Romney, Mitt",republican,FALSE,1185243,2569516
+2012,Colorado,CO,84,62,US President,"Johnson, Gary",libertarian,FALSE,35545,2569516
+2012,Colorado,CO,84,62,US President,"Stein, Jill",green,FALSE,7508,2569516
+2012,Colorado,CO,84,62,US President,"Goode, Virgil Hamlin, Jr.",american constitution party,FALSE,6234,2569516
+2012,Colorado,CO,84,62,US President,"Barr, Roseanne",peace & freedom,FALSE,5057,2569516
+2012,Colorado,CO,84,62,US President,"Reed, Jill Ann",no party affiliation,FALSE,2588,2569516
+2012,Colorado,CO,84,62,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1262,2569516
+2012,Colorado,CO,84,62,US President,"Tittle, Sheila """"Samm""""",we the people,FALSE,791,2569516
+2012,Colorado,CO,84,62,US President,"Hoefling, Thomas Conrad """"Tom""""",america's party,FALSE,679,2569516
+2012,Colorado,CO,84,62,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,317,2569516
+2012,Colorado,CO,84,62,US President,"Alexander, Stewart",socialist,FALSE,308,2569516
+2012,Colorado,CO,84,62,US President,"Miller, Merlin",american third position,FALSE,267,2569516
+2012,Colorado,CO,84,62,US President,"Stevens, Thomas Robert """"Tom""""",objectivist party,FALSE,235,2569516
+2012,Colorado,CO,84,62,US President,"Harris, James",socialist workers,FALSE,192,2569516
+2012,Colorado,CO,84,62,US President,"White, Jerry",socialist equality party,FALSE,189,2569516
+2012,Connecticut,CT,16,1,US President,"Obama, Barack H.",democrat,FALSE,905083,1558204
+2012,Connecticut,CT,16,1,US President,"Romney, Mitt",republican,FALSE,634892,1558204
+2012,Connecticut,CT,16,1,US President,"Johnson, Gary",libertarian,FALSE,12340,1558204
+2012,Delaware,DE,51,11,US President,"Obama, Barack H.",democrat,FALSE,242584,413890
+2012,Delaware,DE,51,11,US President,"Romney, Mitt",republican,FALSE,165484,413890
+2012,Delaware,DE,51,11,US President,"Johnson, Gary",libertarian,FALSE,3882,413890
+2012,Delaware,DE,51,11,US President,"Stein, Jill",green,FALSE,1940,413890
+2012,District of Columbia,DC,53,55,US President,"Obama, Barack H.",democrat,FALSE,267070,293764
+2012,District of Columbia,DC,53,55,US President,"Romney, Mitt",republican,FALSE,21381,293764
+2012,District of Columbia,DC,53,55,US President,"Stein, Jill",d.c. statehood green,FALSE,2458,293764
+2012,District of Columbia,DC,53,55,US President,"Johnson, Gary",libertarian,FALSE,2083,293764
+2012,Florida,FL,59,43,US President,"Obama, Barack H.",democrat,FALSE,4237756,8474179
+2012,Florida,FL,59,43,US President,"Romney, Mitt",republican,FALSE,4163447,8474179
+2012,Florida,FL,59,43,US President,"Johnson, Gary",libertarian,FALSE,44726,8474179
+2012,Florida,FL,59,43,US President,"Stein, Jill",green,FALSE,8947,8474179
+2012,Florida,FL,59,43,US President,"Barr, Roseanne",peace & freedom,FALSE,8154,8474179
+2012,Florida,FL,59,43,US President,"Stevens, Thomas Robert """"Tom""""",objectivist party,FALSE,3856,8474179
+2012,Florida,FL,59,43,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2607,8474179
+2012,Florida,FL,59,43,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1754,8474179
+2012,Florida,FL,59,43,US President,"Hoefling, Thomas Conrad """"Tom""""",american independent,FALSE,946,8474179
+2012,Florida,FL,59,43,US President,"Barnett, Andre",reform party,FALSE,820,8474179
+2012,Florida,FL,59,43,US President,"Alexander, Stewart",socialist,FALSE,799,8474179
+2012,Florida,FL,59,43,US President,"Lindsay, Peta",socialism and liberation party,FALSE,322,8474179
+2012,Georgia,GA,58,44,US President,"Romney, Mitt",republican,FALSE,2078688,3897839
+2012,Georgia,GA,58,44,US President,"Obama, Barack H.",democrat,FALSE,1773827,3897839
+2012,Georgia,GA,58,44,US President,"Johnson, Gary",libertarian,FALSE,45324,3897839
+2012,Hawaii,HI,95,82,US President,"Obama, Barack H.",democrat,FALSE,306658,437159
+2012,Hawaii,HI,95,82,US President,"Romney, Mitt",republican,FALSE,121015,437159
+2012,Hawaii,HI,95,82,US President,"Johnson, Gary",libertarian,FALSE,3840,437159
+2012,Hawaii,HI,95,82,US President,"Stein, Jill",green,FALSE,3184,437159
+2012,Hawaii,HI,95,82,US President,Blank Vote,,FALSE,2227,437159
+2012,Hawaii,HI,95,82,US President,Over Vote,,FALSE,235,437159
+2012,Idaho,ID,82,63,US President,"Romney, Mitt",republican,FALSE,420911,652274
+2012,Idaho,ID,82,63,US President,"Obama, Barack H.",democrat,FALSE,212787,652274
+2012,Idaho,ID,82,63,US President,"Johnson, Gary",libertarian,FALSE,9453,652274
+2012,Idaho,ID,82,63,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2222,652274
+2012,Illinois,IL,33,21,US President,"Obama, Barack H.",democrat,FALSE,3019512,5242014
+2012,Illinois,IL,33,21,US President,"Romney, Mitt",republican,FALSE,2135216,5242014
+2012,Illinois,IL,33,21,US President,"Johnson, Gary",libertarian,FALSE,56229,5242014
+2012,Illinois,IL,33,21,US President,"Stein, Jill",green,FALSE,30222,5242014
+2012,Indiana,IN,32,22,US President,"Romney, Mitt",republican,FALSE,1420543,2624534
+2012,Indiana,IN,32,22,US President,"Obama, Barack H.",democrat,FALSE,1152887,2624534
+2012,Indiana,IN,32,22,US President,"Johnson, Gary",libertarian,FALSE,50111,2624534
+2012,Iowa,IA,42,31,US President,"Obama, Barack H.",democrat,FALSE,822544,1582180
+2012,Iowa,IA,42,31,US President,"Romney, Mitt",republican,FALSE,730617,1582180
+2012,Iowa,IA,42,31,US President,"Johnson, Gary",libertarian,FALSE,12926,1582180
+2012,Iowa,IA,42,31,US President,"Stein, Jill",green,FALSE,3769,1582180
+2012,Iowa,IA,42,31,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,3038,1582180
+2012,Iowa,IA,42,31,US President,"Harris, James",socialist workers,FALSE,445,1582180
+2012,Iowa,IA,42,31,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,372,1582180
+2012,Kansas,KS,47,32,US President,"Romney, Mitt",republican,FALSE,692634,1159971
+2012,Kansas,KS,47,32,US President,"Obama, Barack H.",democrat,FALSE,440726,1159971
+2012,Kansas,KS,47,32,US President,"Johnson, Gary",libertarian,FALSE,20456,1159971
+2012,Kansas,KS,47,32,US President,"Baldwin, Charles """"Chuck""""",reform party,FALSE,5017,1159971
+2012,Kentucky,KY,61,51,US President,"Romney, Mitt",republican,FALSE,1087190,1797212
+2012,Kentucky,KY,61,51,US President,"Obama, Barack H.",democrat,FALSE,679370,1797212
+2012,Kentucky,KY,61,51,US President,"Johnson, Gary",libertarian,FALSE,17063,1797212
+2012,Kentucky,KY,61,51,US President,"Terry, Randall",independent,FALSE,6872,1797212
+2012,Kentucky,KY,61,51,US President,"Stein, Jill",green,FALSE,6337,1797212
+2012,Louisiana,LA,72,45,US President,"Romney, Mitt",republican,FALSE,1152262,1994065
+2012,Louisiana,LA,72,45,US President,"Obama, Barack H.",democrat,FALSE,809141,1994065
+2012,Louisiana,LA,72,45,US President,"Johnson, Gary",libertarian,FALSE,18157,1994065
+2012,Louisiana,LA,72,45,US President,"Stein, Jill",green,FALSE,6978,1994065
+2012,Louisiana,LA,72,45,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2508,1994065
+2012,Louisiana,LA,72,45,US President,"Tittle, Sheila """"Samm""""",we the people,FALSE,1767,1994065
+2012,Louisiana,LA,72,45,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1368,1994065
+2012,Louisiana,LA,72,45,US President,"Lindsay, Peta",socialism and liberation party,FALSE,622,1994065
+2012,Louisiana,LA,72,45,US President,"Fellure, Lowell Jackson """"Jack""""",prohibition,FALSE,518,1994065
+2012,Louisiana,LA,72,45,US President,"Harris, James",socialist workers,FALSE,389,1994065
+2012,Louisiana,LA,72,45,US President,"White, Jerome """"Jerry""""",socialist equality party,FALSE,355,1994065
+2012,Maine,ME,11,2,US President,"Obama, Barack H.",democrat,FALSE,401306,724758
+2012,Maine,ME,11,2,US President,"Romney, Mitt",republican,FALSE,292276,724758
+2012,Maine,ME,11,2,US President,Blank Vote,,FALSE,11578,724758
+2012,Maine,ME,11,2,US President,"Johnson, Gary",libertarian,FALSE,9352,724758
+2012,Maine,ME,11,2,US President,"Stein, Jill",green,FALSE,8119,724758
+2012,Maryland,MD,52,52,US President,"Obama, Barack H.",democrat,FALSE,1677844,2707327
+2012,Maryland,MD,52,52,US President,"Romney, Mitt",republican,FALSE,971869,2707327
+2012,Maryland,MD,52,52,US President,"Johnson, Gary",libertarian,FALSE,30195,2707327
+2012,Maryland,MD,52,52,US President,"Stein, Jill",green,FALSE,17110,2707327
+2012,Massachusetts,MA,14,3,US President,"Obama, Barack H.",democrat,FALSE,1921290,3184196
+2012,Massachusetts,MA,14,3,US President,"Romney, Mitt",republican,FALSE,1188314,3184196
+2012,Massachusetts,MA,14,3,US President,"Johnson, Gary",libertarian,FALSE,30920,3184196
+2012,Massachusetts,MA,14,3,US President,"Stein, Jill",green-rainbow,FALSE,20691,3184196
+2012,Massachusetts,MA,14,3,US President,Blank Vote/Scattering,,FALSE,16429,3184196
+2012,Massachusetts,MA,14,3,US President,Other,,FALSE,6552,3184196
+2012,Michigan,MI,34,23,US President,"Obama, Barack H.",democrat,FALSE,2564569,4730961
+2012,Michigan,MI,34,23,US President,"Romney, Mitt",republican,FALSE,2115256,4730961
+2012,Michigan,MI,34,23,US President,"Stein, Jill",green,FALSE,21897,4730961
+2012,Michigan,MI,34,23,US President,"Goode, Virgil Hamlin, Jr.",u.s. taxpayers party,FALSE,16119,4730961
+2012,Michigan,MI,34,23,US President,"Anderson, Ross Carl """"Rocky""""",natural law,FALSE,5147,4730961
+2012,Minnesota,MN,41,33,US President,"Obama, Barack H.",democratic-farmer-labor,FALSE,1546167,2936561
+2012,Minnesota,MN,41,33,US President,"Romney, Mitt",republican,FALSE,1320225,2936561
+2012,Minnesota,MN,41,33,US President,"Johnson, Gary",libertarian,FALSE,35098,2936561
+2012,Minnesota,MN,41,33,US President,"Stein, Jill",green,FALSE,13023,2936561
+2012,Minnesota,MN,41,33,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,3722,2936561
+2012,Minnesota,MN,41,33,US President,"Carlson, Jim",grassroots,FALSE,3149,2936561
+2012,Minnesota,MN,41,33,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1996,2936561
+2012,Minnesota,MN,41,33,US President,"Morstad, Dean",constitutional government,FALSE,1092,2936561
+2012,Minnesota,MN,41,33,US President,"Harris, James",socialist workers,FALSE,1051,2936561
+2012,Minnesota,MN,41,33,US President,"Lindsay, Peta",socialism and liberation party,FALSE,397,2936561
+2012,Mississippi,MS,64,46,US President,"Romney, Mitt",republican,FALSE,710746,1285584
+2012,Mississippi,MS,64,46,US President,"Obama, Barack H.",democrat,FALSE,562949,1285584
+2012,Mississippi,MS,64,46,US President,"Johnson, Gary",libertarian,FALSE,6676,1285584
+2012,Mississippi,MS,64,46,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2609,1285584
+2012,Mississippi,MS,64,46,US President,"Stein, Jill",green,FALSE,1588,1285584
+2012,Mississippi,MS,64,46,US President,"Washer, Barbara Dale",reform party,FALSE,1016,1285584
+2012,Missouri,MO,43,34,US President,"Romney, Mitt",republican,FALSE,1482440,2757323
+2012,Missouri,MO,43,34,US President,"Obama, Barack H.",democrat,FALSE,1223796,2757323
+2012,Missouri,MO,43,34,US President,"Johnson, Gary",libertarian,FALSE,43151,2757323
+2012,Missouri,MO,43,34,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,7936,2757323
+2012,Montana,MT,81,64,US President,"Romney, Mitt",republican,FALSE,267928,484048
+2012,Montana,MT,81,64,US President,"Obama, Barack H.",democrat,FALSE,201839,484048
+2012,Montana,MT,81,64,US President,"Johnson, Gary",libertarian,FALSE,14165,484048
+2012,Nebraska,NE,46,35,US President,"Romney, Mitt",republican,FALSE,475064,794379
+2012,Nebraska,NE,46,35,US President,"Obama, Barack H.",democrat,FALSE,302081,794379
+2012,Nebraska,NE,46,35,US President,"Johnson, Gary",libertarian,FALSE,11109,794379
+2012,Nevada,NV,88,65,US President,"Obama, Barack H.",democrat,FALSE,531373,1014918
+2012,Nevada,NV,88,65,US President,"Romney, Mitt",republican,FALSE,463567,1014918
+2012,Nevada,NV,88,65,US President,"Johnson, Gary",libertarian,FALSE,10968,1014918
+2012,Nevada,NV,88,65,US President,None Of These Candidates,,FALSE,5770,1014918
+2012,Nevada,NV,88,65,US President,"Goode, Virgil Hamlin, Jr.",independent american,FALSE,3240,1014918
+2012,New Hampshire,NH,12,4,US President,"Obama, Barack H.",democrat,FALSE,369561,710972
+2012,New Hampshire,NH,12,4,US President,"Romney, Mitt",republican,FALSE,329918,710972
+2012,New Hampshire,NH,12,4,US President,"Johnson, Gary",libertarian,FALSE,8212,710972
+2012,New Hampshire,NH,12,4,US President,Scattering,,FALSE,875,710972
+2012,New Hampshire,NH,12,4,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,708,710972
+2012,New Jersey,NJ,22,12,US President,"Obama, Barack H.",democrat,FALSE,2122786,3638499
+2012,New Jersey,NJ,22,12,US President,"Romney, Mitt",republican,FALSE,1478088,3638499
+2012,New Jersey,NJ,22,12,US President,"Johnson, Gary",libertarian,FALSE,21035,3638499
+2012,New Jersey,NJ,22,12,US President,"Stein, Jill",green,FALSE,9886,3638499
+2012,New Jersey,NJ,22,12,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2063,3638499
+2012,New Jersey,NJ,22,12,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1723,3638499
+2012,New Jersey,NJ,22,12,US President,"Boss, Jeffery",nsa did 911,FALSE,1024,3638499
+2012,New Jersey,NJ,22,12,US President,"Harris, James",socialist workers,FALSE,709,3638499
+2012,New Jersey,NJ,22,12,US President,"Miller, Merlin",american third position,FALSE,664,3638499
+2012,New Jersey,NJ,22,12,US President,"Lindsay, Peta",socialism and liberation party,FALSE,521,3638499
+2012,New Mexico,NM,85,66,US President,"Obama, Barack H.",democrat,FALSE,415335,783758
+2012,New Mexico,NM,85,66,US President,"Romney, Mitt",republican,FALSE,335788,783758
+2012,New Mexico,NM,85,66,US President,"Johnson, Gary",libertarian,FALSE,27788,783758
+2012,New Mexico,NM,85,66,US President,"Stein, Jill",green,FALSE,2691,783758
+2012,New Mexico,NM,85,66,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,982,783758
+2012,New York,NY,21,13,US President,"Obama, Barack H.",democrat,FALSE,4324228,7116784
+2012,New York,NY,21,13,US President,"Romney, Mitt",republican,FALSE,2223397,7116784
+2012,New York,NY,21,13,US President,"Romney, Mitt",conservative,FALSE,262035,7116784
+2012,New York,NY,21,13,US President,"Obama, Barack H.",working families,FALSE,147643,7116784
+2012,New York,NY,21,13,US President,"Johnson, Gary",libertarian,FALSE,47092,7116784
+2012,New York,NY,21,13,US President,"Stein, Jill",green,FALSE,39856,7116784
+2012,New York,NY,21,13,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,6270,7116784
+2012,New York,NY,21,13,US President,"Lindsay, Peta",socialism and liberation party,FALSE,2039,7116784
+2012,North Carolina,NC,56,47,US President,"Romney, Mitt",republican,FALSE,2270395,4505372
+2012,North Carolina,NC,56,47,US President,"Obama, Barack H.",democrat,FALSE,2178391,4505372
+2012,North Carolina,NC,56,47,US President,"Johnson, Gary",libertarian,FALSE,44515,4505372
+2012,North Dakota,ND,44,36,US President,"Romney, Mitt",republican,FALSE,188320,322932
+2012,North Dakota,ND,44,36,US President,"Obama, Barack H.",democrat,FALSE,124966,322932
+2012,North Dakota,ND,44,36,US President,"Johnson, Gary",libertarian,FALSE,5238,322932
+2012,North Dakota,ND,44,36,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,1186,322932
+2012,North Dakota,ND,44,36,US President,"Stein, Jill",green,FALSE,1362,322932
+2012,Ohio,OH,31,24,US President,"Obama, Barack H.",democrat,FALSE,2827621,5580822
+2012,Ohio,OH,31,24,US President,"Romney, Mitt",republican,FALSE,2661407,5580822
+2012,Ohio,OH,31,24,US President,"Johnson, Gary",libertarian,FALSE,49493,5580822
+2012,Ohio,OH,31,24,US President,"Stein, Jill",green,FALSE,18574,5580822
+2012,Ohio,OH,31,24,US President,"Duncan, Richard",independent,FALSE,12502,5580822
+2012,Ohio,OH,31,24,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,8151,5580822
+2012,Ohio,OH,31,24,US President,"Alexander, Stewart",socialist,FALSE,2967,5580822
+2012,Oklahoma,OK,73,53,US President,"Romney, Mitt",republican,FALSE,891325,1334872
+2012,Oklahoma,OK,73,53,US President,"Obama, Barack H.",democrat,FALSE,443547,1334872
+2012,Oregon,OR,92,72,US President,"Obama, Barack H.",democrat,FALSE,970488,1789270
+2012,Oregon,OR,92,72,US President,"Romney, Mitt",republican,FALSE,754175,1789270
+2012,Oregon,OR,92,72,US President,"Johnson, Gary",libertarian,FALSE,24089,1789270
+2012,Oregon,OR,92,72,US President,"Stein, Jill",pacific green,FALSE,19427,1789270
+2012,Oregon,OR,92,72,US President,Other,,FALSE,13275,1789270
+2012,Oregon,OR,92,72,US President,"Christensen, Will",constitution party,FALSE,4432,1789270
+2012,Oregon,OR,92,72,US President,"Anderson, Ross Carl """"Rocky""""",progressive,FALSE,3384,1789270
+2012,Pennsylvania,PA,23,14,US President,"Obama, Barack H.",democrat,FALSE,2990274,5742040
+2012,Pennsylvania,PA,23,14,US President,"Romney, Mitt",republican,FALSE,2680434,5742040
+2012,Pennsylvania,PA,23,14,US President,"Johnson, Gary",libertarian,FALSE,49991,5742040
+2012,Pennsylvania,PA,23,14,US President,"Stein, Jill",green,FALSE,21341,5742040
+2012,Rhode Island,RI,15,5,US President,"Obama, Barack H.",democrat,FALSE,279677,446049
+2012,Rhode Island,RI,15,5,US President,"Romney, Mitt",republican,FALSE,157204,446049
+2012,Rhode Island,RI,15,5,US President,"Johnson, Gary",libertarian,FALSE,4388,446049
+2012,Rhode Island,RI,15,5,US President,"Stein, Jill",green,FALSE,2421,446049
+2012,Rhode Island,RI,15,5,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,430,446049
+2012,Rhode Island,RI,15,5,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,416,446049
+2012,Rhode Island,RI,15,5,US President,"Lindsay, Peta",socialism and liberation party,FALSE,132,446049
+2012,South Carolina,SC,57,48,US President,"Romney, Mitt",republican,FALSE,1071645,1964118
+2012,South Carolina,SC,57,48,US President,"Obama, Barack H.",democrat,FALSE,865941,1964118
+2012,South Carolina,SC,57,48,US President,"Johnson, Gary",libertarian,FALSE,16321,1964118
+2012,South Carolina,SC,57,48,US President,"Stein, Jill",green,FALSE,5446,1964118
+2012,South Carolina,SC,57,48,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,4765,1964118
+2012,South Dakota,SD,45,37,US President,"Romney, Mitt",republican,FALSE,210610,363815
+2012,South Dakota,SD,45,37,US President,"Obama, Barack H.",democrat,FALSE,145039,363815
+2012,South Dakota,SD,45,37,US President,"Johnson, Gary",libertarian,FALSE,5795,363815
+2012,South Dakota,SD,45,37,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2371,363815
+2012,Tennessee,TN,62,54,US President,"Romney, Mitt",republican,FALSE,1462330,2458577
+2012,Tennessee,TN,62,54,US President,"Obama, Barack H.",democrat,FALSE,960709,2458577
+2012,Tennessee,TN,62,54,US President,"Stein, Jill",green,FALSE,6515,2458577
+2012,Tennessee,TN,62,54,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,6022,2458577
+2012,Texas,TX,74,49,US President,"Romney, Mitt",republican,FALSE,4569843,7993851
+2012,Texas,TX,74,49,US President,"Obama, Barack H.",democrat,FALSE,3308124,7993851
+2012,Texas,TX,74,49,US President,"Johnson, Gary",libertarian,FALSE,88580,7993851
+2012,Texas,TX,74,49,US President,"Stein, Jill",green,FALSE,24657,7993851
+2012,Utah,UT,87,67,US President,"Romney, Mitt",republican,FALSE,740600,1017440
+2012,Utah,UT,87,67,US President,"Obama, Barack H.",democrat,FALSE,251813,1017440
+2012,Utah,UT,87,67,US President,"Johnson, Gary",libertarian,FALSE,12572,1017440
+2012,Utah,UT,87,67,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,5335,1017440
+2012,Utah,UT,87,67,US President,"Stein, Jill",green,FALSE,3817,1017440
+2012,Utah,UT,87,67,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,2871,1017440
+2012,Vermont,VT,13,6,US President,"Obama, Barack H.",democrat,FALSE,199239,299290
+2012,Vermont,VT,13,6,US President,"Romney, Mitt",republican,FALSE,92698,299290
+2012,Vermont,VT,13,6,US President,"Johnson, Gary",libertarian,FALSE,3487,299290
+2012,Vermont,VT,13,6,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,1128,299290
+2012,Vermont,VT,13,6,US President,"Lindsay, Peta",socialism and liberation party,FALSE,695,299290
+2012,Virginia,VA,54,40,US President,"Obama, Barack H.",democrat,FALSE,1971820,3854489
+2012,Virginia,VA,54,40,US President,"Romney, Mitt",republican,FALSE,1822522,3854489
+2012,Virginia,VA,54,40,US President,"Johnson, Gary",libertarian,FALSE,31216,3854489
+2012,Virginia,VA,54,40,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,13058,3854489
+2012,Virginia,VA,54,40,US President,"Stein, Jill",green,FALSE,8627,3854489
+2012,Washington,WA,91,73,US President,"Obama, Barack H.",democrat,FALSE,1755396,3125516
+2012,Washington,WA,91,73,US President,"Mitt, Romney",republican,FALSE,1290670,3125516
+2012,Washington,WA,91,73,US President,"Johnson, Gary",libertarian,FALSE,42202,3125516
+2012,Washington,WA,91,73,US President,"Stein, Jill",green,FALSE,20928,3125516
+2012,Washington,WA,91,73,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,8851,3125516
+2012,Washington,WA,91,73,US President,"Anderson, Ross Carl """"Rocky""""",justice,FALSE,4946,3125516
+2012,Washington,WA,91,73,US President,"Lindsay, Peta",socialism and liberation party,FALSE,1318,3125516
+2012,Washington,WA,91,73,US President,"Harris, James",socialist workers,FALSE,1205,3125516
+2012,West Virginia,WV,55,56,US President,"Romney, Mitt",republican,FALSE,417655,670438
+2012,West Virginia,WV,55,56,US President,"Obama, Barack H.",democrat,FALSE,238269,670438
+2012,West Virginia,WV,55,56,US President,"Johnson, Gary",libertarian,FALSE,6302,670438
+2012,West Virginia,WV,55,56,US President,"Stein, Jill",mountain party,FALSE,4406,670438
+2012,Wisconsin,WI,35,25,US President,"Obama, Barack H.",democrat,FALSE,1620985,3071434
+2012,Wisconsin,WI,35,25,US President,"Romney, Mitt",republican,FALSE,1410966,3071434
+2012,Wisconsin,WI,35,25,US President,Scattering,,FALSE,5170,3071434
+2012,Wisconsin,WI,35,25,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,4930,3071434
+2012,Wyoming,WY,83,68,US President,"Romney, Mitt",republican,FALSE,170962,250701
+2012,Wyoming,WY,83,68,US President,"Obama, Barack H.",democrat,FALSE,69286,250701
+2012,Wyoming,WY,83,68,US President,"Johnson, Gary",libertarian,FALSE,5326,250701
+2012,Wyoming,WY,83,68,US President,"Goode, Virgil Hamlin, Jr.",constitution party,FALSE,1452,250701
+2012,Wyoming,WY,83,68,US President,Blank Vote,,FALSE,1367,250701
+2012,Wyoming,WY,83,68,US President,Over Vote,,FALSE,273,250701
+2016,Alabama,AL,63,41,US President,"Trump, Donald J.",republican,FALSE,1318255,2123372
+2016,Alabama,AL,63,41,US President,"Clinton, Hillary",democrat,FALSE,729547,2123372
+2016,Alabama,AL,63,41,US President,"Johnson, Gary",libertarian,FALSE,44467,2123372
+2016,Alabama,AL,63,41,US President,"Stein, Jill",green,FALSE,9391,2123372
+2016,Alaska,AK,94,81,US President,"Trump, Donald J.",republican,FALSE,163387,318608
+2016,Alaska,AK,94,81,US President,"Clinton, Hillary",democrat,FALSE,116454,318608
+2016,Alaska,AK,94,81,US President,"Johnson, Gary",libertarian,FALSE,18725,318608
+2016,Alaska,AK,94,81,US President,"Stein, Jill",green,FALSE,5735,318608
+2016,Alaska,AK,94,81,US President,"Castle, Darrell L.",constitution party,FALSE,3866,318608
+2016,Alaska,AK,94,81,US President,"De La Fuente, Roque """"Rocky""""",no party affiliation,FALSE,1240,318608
+2016,Arizona,AZ,86,61,US President,"Trump, Donald J.",republican,FALSE,1252401,2573165
+2016,Arizona,AZ,86,61,US President,"Clinton, Hillary",democrat,FALSE,1161167,2573165
+2016,Arizona,AZ,86,61,US President,"Johnson, Gary",libertarian,FALSE,106327,2573165
+2016,Arizona,AZ,86,61,US President,"Stein, Jill",green,FALSE,34345,2573165
+2016,Arizona,AZ,86,61,US President,"Castle, Darrell L.",constitution party,TRUE,1058,2573165
+2016,Arizona,AZ,86,61,US President,"De La Fuente, Roque """"Rocky""""",american delta party,TRUE,29,2573165
+2016,Arizona,AZ,86,61,US President,"Tittle, Sheila """"Samm""""",we the people,TRUE,12,2573165
+2016,Arkansas,AR,71,42,US President,"Trump, Donald J.",republican,FALSE,684872,1130635
+2016,Arkansas,AR,71,42,US President,"Clinton, Hillary",democrat,FALSE,380494,1130635
+2016,Arkansas,AR,71,42,US President,"Johnson, Gary",libertarian,FALSE,29829,1130635
+2016,Arkansas,AR,71,42,US President,"McMullin, Evan",better for america,FALSE,13255,1130635
+2016,Arkansas,AR,71,42,US President,"Stein, Jill",green,FALSE,9473,1130635
+2016,Arkansas,AR,71,42,US President,"Hedges, Jim",prohibition,FALSE,4709,1130635
+2016,Arkansas,AR,71,42,US President,"Castle, Darrell L.",constitution party,FALSE,4613,1130635
+2016,Arkansas,AR,71,42,US President,"Kahn, Lynn S.",independent,FALSE,3390,1130635
+2016,California,CA,93,71,US President,"Clinton, Hillary",democrat,FALSE,8753788,14181595
+2016,California,CA,93,71,US President,"Trump, Donald J.",republican,FALSE,4483810,14181595
+2016,California,CA,93,71,US President,"Johnson, Gary",libertarian,FALSE,478500,14181595
+2016,California,CA,93,71,US President,"Stein, Jill",green,FALSE,278657,14181595
+2016,California,CA,93,71,US President,"La Riva, Gloria Estella",peace & freedom,FALSE,66101,14181595
+2016,Colorado,CO,84,62,US President,"Clinton, Hillary",democrat,FALSE,1338870,2780220
+2016,Colorado,CO,84,62,US President,"Trump, Donald J.",republican,FALSE,1202484,2780220
+2016,Colorado,CO,84,62,US President,"Johnson, Gary",libertarian,FALSE,144121,2780220
+2016,Colorado,CO,84,62,US President,"Stein, Jill",green,FALSE,38437,2780220
+2016,Colorado,CO,84,62,US President,Scattering,unaffiliated,FALSE,31485,2780220
+2016,Colorado,CO,84,62,US President,"Castle, Darrell L.",american constitution party,FALSE,11699,2780220
+2016,Colorado,CO,84,62,US President,"Keniston, Chris",veterans party of america,FALSE,5028,2780220
+2016,Colorado,CO,84,62,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1255,2780220
+2016,Colorado,CO,84,62,US President,"Kopitke, Kyle Kenley",independent american,FALSE,1096,2780220
+2016,Colorado,CO,84,62,US President,"Maldonado, Joseph Allen",independent people of colorado,FALSE,872,2780220
+2016,Colorado,CO,84,62,US President,"Maturen, Michael A.",american solidarity party,FALSE,862,2780220
+2016,Colorado,CO,84,62,US President,"Silva, Rod",nutrition party,FALSE,751,2780220
+2016,Colorado,CO,84,62,US President,"Hoefling, Tom",america's party,FALSE,710,2780220
+2016,Colorado,CO,84,62,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,531,2780220
+2016,Colorado,CO,84,62,US President,"Kennedy, Alyson",socialist workers,FALSE,452,2780220
+2016,Colorado,CO,84,62,US President,"Kotlikoff, Laurence",kotlikoff for president,FALSE,392,2780220
+2016,Colorado,CO,84,62,US President,"Lyttle, Bradford",nonviolent resistance/pacifist,FALSE,382,2780220
+2016,Colorado,CO,84,62,US President,"Atwood, Frank",approval voting party,FALSE,337,2780220
+2016,Colorado,CO,84,62,US President,"Emidio """"Mimi"""", Soltysik",socialist party usa,FALSE,271,2780220
+2016,Colorado,CO,84,62,US President,"Hedges, James",prohibition,FALSE,185,2780220
+2016,Connecticut,CT,16,1,US President,"Clinton, Hillary",democrat,FALSE,897572,1644920
+2016,Connecticut,CT,16,1,US President,"Trump, Donald J.",republican,FALSE,673215,1644920
+2016,Connecticut,CT,16,1,US President,"Johnson, Gary",libertarian,FALSE,48676,1644920
+2016,Connecticut,CT,16,1,US President,"Stein, Jill",green,FALSE,22841,1644920
+2016,Delaware,DE,51,11,US President,"Clinton, Hillary",democrat,FALSE,235603,441590
+2016,Delaware,DE,51,11,US President,"Trump, Donald J.",republican,FALSE,185127,441590
+2016,Delaware,DE,51,11,US President,"Johnson, Gary",libertarian,FALSE,14757,441590
+2016,Delaware,DE,51,11,US President,"Stein, Jill",green,FALSE,6103,441590
+2016,District of Columbia,DC,53,55,US President,"Clinton, Hillary",democrat,FALSE,282830,312575
+2016,District of Columbia,DC,53,55,US President,"Trump, Donald J.",republican,FALSE,12723,312575
+2016,District of Columbia,DC,53,55,US President,"Johnson, Gary",libertarian,FALSE,4906,312575
+2016,District of Columbia,DC,53,55,US President,"Stein, Jill",green,FALSE,4258,312575
+2016,District of Columbia,DC,53,55,US President,Blank Vote,,FALSE,1064,312575
+2016,District of Columbia,DC,53,55,US President,Over Vote,,FALSE,243,312575
+2016,Florida,FL,59,43,US President,"Trump, Donald J.",republican,FALSE,4617886,9420039
+2016,Florida,FL,59,43,US President,"Clinton, Hillary",democrat,FALSE,4504975,9420039
+2016,Florida,FL,59,43,US President,"Johnson, Gary",libertarian,FALSE,207043,9420039
+2016,Florida,FL,59,43,US President,"Stein, Jill",green,FALSE,64399,9420039
+2016,Florida,FL,59,43,US President,"Castle, Darrell L.",constitution party,FALSE,16475,9420039
+2016,Florida,FL,59,43,US President,"De La Fuente, Roque """"Rocky""""",reform party,FALSE,9108,9420039
+2016,Georgia,GA,58,44,US President,"Trump, Donald J.",republican,FALSE,2089104,4114732
+2016,Georgia,GA,58,44,US President,"Clinton, Hillary",democrat,FALSE,1877963,4114732
+2016,Georgia,GA,58,44,US President,"Johnson, Gary",libertarian,FALSE,125306,4114732
+2016,Hawaii,HI,95,82,US President,"Clinton, Hillary",democrat,FALSE,266891,437664
+2016,Hawaii,HI,95,82,US President,"Trump, Donald J.",republican,FALSE,128847,437664
+2016,Hawaii,HI,95,82,US President,"Johnson, Gary",libertarian,FALSE,15954,437664
+2016,Hawaii,HI,95,82,US President,"Stein, Jill",green,FALSE,12737,437664
+2016,Hawaii,HI,95,82,US President,Blank Vote,,FALSE,8289,437664
+2016,Hawaii,HI,95,82,US President,"Castle, Darrell L.",constitution party,FALSE,4508,437664
+2016,Hawaii,HI,95,82,US President,Over Vote,,FALSE,438,437664
+2016,Idaho,ID,82,63,US President,"Trump, Donald J.",republican,FALSE,409055,690255
+2016,Idaho,ID,82,63,US President,"Clinton, Hillary",democrat,FALSE,189765,690255
+2016,Idaho,ID,82,63,US President,"McMullin, Evan",independent,FALSE,60748,690255
+2016,Idaho,ID,82,63,US President,"Johnson, Gary",libertarian,FALSE,28331,690255
+2016,Idaho,ID,82,63,US President,"Castle, Darrell L.",constitution party,FALSE,2356,690255
+2016,Illinois,IL,33,21,US President,"Clinton, Hillary",democrat,FALSE,3090729,5536424
+2016,Illinois,IL,33,21,US President,"Trump, Donald J.",republican,FALSE,2146015,5536424
+2016,Illinois,IL,33,21,US President,"Johnson, Gary",libertarian,FALSE,209596,5536424
+2016,Illinois,IL,33,21,US President,"Stein, Jill",green,FALSE,76802,5536424
+2016,Indiana,IN,32,22,US President,"Trump, Donald J.",republican,FALSE,1557286,2734958
+2016,Indiana,IN,32,22,US President,"Clinton, Hillary",democrat,FALSE,1033126,2734958
+2016,Indiana,IN,32,22,US President,"Johnson, Gary",libertarian,FALSE,133993,2734958
+2016,Indiana,IN,32,22,US President,"Castle, Darrell L.",constitution party,TRUE,1937,2734958
+2016,Indiana,IN,32,22,US President,"Emidio """"Mimi"""", Soltysik",socialist party usa,TRUE,57,2734958
+2016,Iowa,IA,42,31,US President,"Trump, Donald J.",republican,FALSE,800983,1565580
+2016,Iowa,IA,42,31,US President,"Clinton, Hillary",democrat,FALSE,653669,1565580
+2016,Iowa,IA,42,31,US President,"Johnson, Gary",libertarian,FALSE,59186,1565580
+2016,Iowa,IA,42,31,US President,"McMullin, Evan",nominated by petition,FALSE,12366,1565580
+2016,Iowa,IA,42,31,US President,"Stein, Jill",green,FALSE,11479,1565580
+2016,Iowa,IA,42,31,US President,"Castle, Darrell L.",constitution party,FALSE,5335,1565580
+2016,Iowa,IA,42,31,US President,"Kahn, Lynn S.",new independent party iowa,FALSE,2247,1565580
+2016,Iowa,IA,42,31,US President,"Vacek, Dan",legal marijuana now,FALSE,2246,1565580
+2016,Iowa,IA,42,31,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,323,1565580
+2016,Kansas,KS,47,32,US President,"Trump, Donald J.",republican,FALSE,671018,1184402
+2016,Kansas,KS,47,32,US President,"Clinton, Hillary",democrat,FALSE,427005,1184402
+2016,Kansas,KS,47,32,US President,"Johnson, Gary",libertarian,FALSE,55406,1184402
+2016,Kansas,KS,47,32,US President,"Stein, Jill",independent,FALSE,23506,1184402
+2016,Kentucky,KY,61,51,US President,"Trump, Donald J.",republican,FALSE,1202971,1924149
+2016,Kentucky,KY,61,51,US President,"Clinton, Hillary",democrat,FALSE,628854,1924149
+2016,Kentucky,KY,61,51,US President,"Johnson, Gary",libertarian,FALSE,53752,1924149
+2016,Kentucky,KY,61,51,US President,"McMullin, Evan",independent,FALSE,22780,1924149
+2016,Kentucky,KY,61,51,US President,"Stein, Jill",green,FALSE,13913,1924149
+2016,Kentucky,KY,61,51,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1128,1924149
+2016,Louisiana,LA,72,45,US President,"Trump, Donald J.",republican,FALSE,1178638,2029032
+2016,Louisiana,LA,72,45,US President,"Clinton, Hillary",democrat,FALSE,780154,2029032
+2016,Louisiana,LA,72,45,US President,"Johnson, Gary",libertarian,FALSE,37978,2029032
+2016,Louisiana,LA,72,45,US President,Other,,FALSE,18231,2029032
+2016,Louisiana,LA,72,45,US President,"Stein, Jill",green,FALSE,14031,2029032
+2016,Maine,ME,11,2,US President,"Clinton, Hillary",democrat,FALSE,357735,771892
+2016,Maine,ME,11,2,US President,"Trump, Donald J.",republican,FALSE,335593,771892
+2016,Maine,ME,11,2,US President,"Johnson, Gary",libertarian,FALSE,38105,771892
+2016,Maine,ME,11,2,US President,Blank Vote,,FALSE,23965,771892
+2016,Maine,ME,11,2,US President,"Stein, Jill",green,FALSE,14251,771892
+2016,Maryland,MD,52,52,US President,"Clinton, Hillary",democrat,FALSE,1677928,2781446
+2016,Maryland,MD,52,52,US President,"Trump, Donald J.",republican,FALSE,943169,2781446
+2016,Maryland,MD,52,52,US President,"Johnson, Gary",libertarian,FALSE,79605,2781446
+2016,Maryland,MD,52,52,US President,"Stein, Jill",green,FALSE,35945,2781446
+2016,Maryland,MD,52,52,US President,Other,,TRUE,10921,2781446
+2016,Maryland,MD,52,52,US President,"Trump, Donald J.",republican,TRUE,259,2781446
+2016,Maryland,MD,52,52,US President,"Clinton, Hillary",democrat,TRUE,78,2781446
+2016,Massachusetts,MA,14,3,US President,"Clinton, Hillary",democrat,FALSE,1995196,3378821
+2016,Massachusetts,MA,14,3,US President,"Trump, Donald J.",republican,FALSE,1090893,3378821
+2016,Massachusetts,MA,14,3,US President,"Johnson, Gary",libertarian,FALSE,138018,3378821
+2016,Massachusetts,MA,14,3,US President,Blank Vote,,FALSE,53775,3378821
+2016,Massachusetts,MA,14,3,US President,Other,,FALSE,50488,3378821
+2016,Massachusetts,MA,14,3,US President,"Stein, Jill",green,FALSE,47661,3378821
+2016,Michigan,MI,34,23,US President,"Trump, Donald J.",republican,FALSE,2279543,4799284
+2016,Michigan,MI,34,23,US President,"Clinton, Hillary",democrat,FALSE,2268839,4799284
+2016,Michigan,MI,34,23,US President,"Johnson, Gary",libertarian,FALSE,172136,4799284
+2016,Michigan,MI,34,23,US President,"Stein, Jill",green,FALSE,51463,4799284
+2016,Michigan,MI,34,23,US President,"Castle, Darrell L.",u.s. taxpayers party,FALSE,16139,4799284
+2016,Michigan,MI,34,23,US President,"Emidio """"Mimi"""", Soltysik",natural law,FALSE,2209,4799284
+2016,Minnesota,MN,41,33,US President,"Clinton, Hillary",democrat,FALSE,1367705,2944782
+2016,Minnesota,MN,41,33,US President,"Trump, Donald J.",republican,FALSE,1322949,2944782
+2016,Minnesota,MN,41,33,US President,"Johnson, Gary",libertarian,FALSE,112972,2944782
+2016,Minnesota,MN,41,33,US President,"McMullin, Evan",independence,FALSE,53075,2944782
+2016,Minnesota,MN,41,33,US President,"Stein, Jill",green,FALSE,36986,2944782
+2016,Minnesota,MN,41,33,US President,"Vacek, Dan",legal marijuana now,FALSE,11291,2944782
+2016,Minnesota,MN,41,33,US President,"Castle, Darrell L.",constitution party,FALSE,9456,2944782
+2016,Minnesota,MN,41,33,US President,"Kennedy, Alyson",socialist workers,FALSE,1671,2944782
+2016,Minnesota,MN,41,33,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1430,2944782
+2016,Mississippi,MS,64,46,US President,"Trump, Donald J.",republican,FALSE,700714,1209357
+2016,Mississippi,MS,64,46,US President,"Clinton, Hillary",democrat,FALSE,485131,1209357
+2016,Mississippi,MS,64,46,US President,"Johnson, Gary",libertarian,FALSE,14435,1209357
+2016,Mississippi,MS,64,46,US President,"Castle, Darrell L.",constitution party,FALSE,3987,1209357
+2016,Mississippi,MS,64,46,US President,"Stein, Jill",green,FALSE,3731,1209357
+2016,Mississippi,MS,64,46,US President,"Hedges, James",prohibition,FALSE,715,1209357
+2016,Mississippi,MS,64,46,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,644,1209357
+2016,Missouri,MO,43,34,US President,"Trump, Donald J.",republican,FALSE,1594511,2808605
+2016,Missouri,MO,43,34,US President,"Clinton, Hillary",democrat,FALSE,1071068,2808605
+2016,Missouri,MO,43,34,US President,"Johnson, Gary",libertarian,FALSE,97359,2808605
+2016,Missouri,MO,43,34,US President,"Stein, Jill",green,FALSE,25419,2808605
+2016,Missouri,MO,43,34,US President,"Castle, Darrell L.",constitution party,FALSE,13092,2808605
+2016,Montana,MT,81,64,US President,"Trump, Donald J.",republican,FALSE,279240,494526
+2016,Montana,MT,81,64,US President,"Clinton, Hillary",democrat,FALSE,177709,494526
+2016,Montana,MT,81,64,US President,"Johnson, Gary",libertarian,FALSE,28037,494526
+2016,Montana,MT,81,64,US President,"Stein, Jill",green,FALSE,7970,494526
+2016,Montana,MT,81,64,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1570,494526
+2016,Nebraska,NE,46,35,US President,"Trump, Donald J.",republican,FALSE,495961,844227
+2016,Nebraska,NE,46,35,US President,"Clinton, Hillary",democrat,FALSE,284494,844227
+2016,Nebraska,NE,46,35,US President,"Johnson, Gary",libertarian,FALSE,38946,844227
+2016,Nebraska,NE,46,35,US President,"Stein, Jill",nominated by petition,FALSE,8775,844227
+2016,Nevada,NV,88,65,US President,"Clinton, Hillary",democrat,FALSE,539260,1125385
+2016,Nevada,NV,88,65,US President,"Trump, Donald J.",republican,FALSE,512058,1125385
+2016,Nevada,NV,88,65,US President,"Johnson, Gary",libertarian,FALSE,37384,1125385
+2016,Nevada,NV,88,65,US President,None Of The Above,,FALSE,28863,1125385
+2016,Nevada,NV,88,65,US President,"Kopitke, Kyle Kenley",independent american,FALSE,5268,1125385
+2016,Nevada,NV,88,65,US President,"De La Fuente, Roque """"Rocky""""",no party affiliation,FALSE,2552,1125385
+2016,New Hampshire,NH,12,4,US President,"Clinton, Hillary",democrat,FALSE,348526,744296
+2016,New Hampshire,NH,12,4,US President,"Trump, Donald J.",republican,FALSE,345790,744296
+2016,New Hampshire,NH,12,4,US President,"Johnson, Gary",libertarian,FALSE,30777,744296
+2016,New Hampshire,NH,12,4,US President,"Stein, Jill",green,FALSE,6496,744296
+2016,New Hampshire,NH,12,4,US President,Scattering,,TRUE,2411,744296
+2016,New Hampshire,NH,12,4,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,678,744296
+2016,New Jersey,NJ,22,12,US President,"Clinton, Hillary",democrat,FALSE,2148278,3874046
+2016,New Jersey,NJ,22,12,US President,"Trump, Donald J.",republican,FALSE,1601933,3874046
+2016,New Jersey,NJ,22,12,US President,"Johnson, Gary",libertarian,FALSE,72477,3874046
+2016,New Jersey,NJ,22,12,US President,"Stein, Jill",green,FALSE,37772,3874046
+2016,New Jersey,NJ,22,12,US President,"Castle, Darrell L.",constitution party,FALSE,6161,3874046
+2016,New Jersey,NJ,22,12,US President,"Kennedy, Alyson",socialist workers,FALSE,2156,3874046
+2016,New Jersey,NJ,22,12,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1838,3874046
+2016,New Jersey,NJ,22,12,US President,"Moorehead, Monica",workers world party,FALSE,1749,3874046
+2016,New Jersey,NJ,22,12,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1682,3874046
+2016,New Mexico,NM,85,66,US President,"Clinton, Hillary",democrat,FALSE,385234,798319
+2016,New Mexico,NM,85,66,US President,"Trump, Donald J.",republican,FALSE,319667,798319
+2016,New Mexico,NM,85,66,US President,"Johnson, Gary",libertarian,FALSE,74541,798319
+2016,New Mexico,NM,85,66,US President,"Stein, Jill",green,FALSE,9879,798319
+2016,New Mexico,NM,85,66,US President,"McMullin, Evan",better for america,FALSE,5825,798319
+2016,New Mexico,NM,85,66,US President,"Castle, Darrell L.",constitution party,FALSE,1514,798319
+2016,New Mexico,NM,85,66,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,1184,798319
+2016,New Mexico,NM,85,66,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,475,798319
+2016,New York,NY,21,13,US President,"Clinton, Hillary",democrat,FALSE,4379789,7802084
+2016,New York,NY,21,13,US President,"Trump, Donald J.",republican,FALSE,2527142,7802084
+2016,New York,NY,21,13,US President,"Trump, Donald J.",conservative,FALSE,292392,7802084
+2016,New York,NY,21,13,US President,"Clinton, Hillary",working families,FALSE,140041,7802084
+2016,New York,NY,21,13,US President,"Johnson, Gary",independence,FALSE,119156,7802084
+2016,New York,NY,21,13,US President,"Stein, Jill",green,FALSE,107934,7802084
+2016,New York,NY,21,13,US President,Blank Vote,,FALSE,77179,7802084
+2016,New York,NY,21,13,US President,"Johnson, Gary",libertarian,FALSE,57442,7802084
+2016,New York,NY,21,13,US President,Scattering,,FALSE,48447,7802084
+2016,New York,NY,21,13,US President,"Clinton, Hillary",women's equality,FALSE,36294,7802084
+2016,New York,NY,21,13,US President,Void Vote,,FALSE,3452,7802084
+2016,North Carolina,NC,56,47,US President,"Trump, Donald J.",republican,FALSE,2362631,4741564
+2016,North Carolina,NC,56,47,US President,"Clinton, Hillary",democrat,FALSE,2189316,4741564
+2016,North Carolina,NC,56,47,US President,"Johnson, Gary",libertarian,FALSE,130126,4741564
+2016,North Carolina,NC,56,47,US President,Scattering,,TRUE,47386,4741564
+2016,North Dakota,ND,44,36,US President,"Trump, Donald J.",republican,FALSE,216794,344360
+2016,North Dakota,ND,44,36,US President,"Clinton, Hillary",democrat,FALSE,93758,344360
+2016,North Dakota,ND,44,36,US President,"Johnson, Gary",libertarian,FALSE,21434,344360
+2016,North Dakota,ND,44,36,US President,"Stein, Jill",green,FALSE,3780,344360
+2016,North Dakota,ND,44,36,US President,"Castle, Darrell L.",constitution party,FALSE,1833,344360
+2016,North Dakota,ND,44,36,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,364,344360
+2016,Ohio,OH,31,24,US President,"Trump, Donald J.",republican,FALSE,2841005,5496487
+2016,Ohio,OH,31,24,US President,"Clinton, Hillary",democrat,FALSE,2394164,5496487
+2016,Ohio,OH,31,24,US President,"Stein, Jill",green,FALSE,46271,5496487
+2016,Oklahoma,OK,73,53,US President,"Trump, Donald J.",republican,FALSE,949136,1452992
+2016,Oklahoma,OK,73,53,US President,"Clinton, Hillary",democrat,FALSE,420375,1452992
+2016,Oklahoma,OK,73,53,US President,"Johnson, Gary",libertarian,FALSE,83481,1452992
+2016,Oregon,OR,92,72,US President,"Clinton, Hillary",democrat,FALSE,1002106,2001336
+2016,Oregon,OR,92,72,US President,"Trump, Donald J.",republican,FALSE,782403,2001336
+2016,Oregon,OR,92,72,US President,"Johnson, Gary",libertarian,FALSE,94231,2001336
+2016,Oregon,OR,92,72,US President,Other,,FALSE,72594,2001336
+2016,Oregon,OR,92,72,US President,"Stein, Jill",green,FALSE,50002,2001336
+2016,Pennsylvania,PA,23,14,US President,"Trump, Donald J.",republican,FALSE,2970733,6115402
+2016,Pennsylvania,PA,23,14,US President,"Clinton, Hillary",democrat,FALSE,2926441,6115402
+2016,Pennsylvania,PA,23,14,US President,"Johnson, Gary",libertarian,FALSE,146715,6115402
+2016,Pennsylvania,PA,23,14,US President,"Stein, Jill",green,FALSE,49941,6115402
+2016,Pennsylvania,PA,23,14,US President,"Castle, Darrell L.",constitution party,FALSE,21572,6115402
+2016,Rhode Island,RI,15,5,US President,"Clinton, Hillary",democrat,FALSE,252525,464144
+2016,Rhode Island,RI,15,5,US President,"Trump, Donald J.",republican,FALSE,180543,464144
+2016,Rhode Island,RI,15,5,US President,"Johnson, Gary",libertarian,FALSE,14746,464144
+2016,Rhode Island,RI,15,5,US President,"Stein, Jill",green,FALSE,6220,464144
+2016,Rhode Island,RI,15,5,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,671,464144
+2016,South Carolina,SC,57,48,US President,"Trump, Donald J.",republican,FALSE,1155389,2103027
+2016,South Carolina,SC,57,48,US President,"Clinton, Hillary",democrat,FALSE,855373,2103027
+2016,South Carolina,SC,57,48,US President,"Johnson, Gary",libertarian,FALSE,49204,2103027
+2016,South Carolina,SC,57,48,US President,"McMullin, Evan",independence,FALSE,21016,2103027
+2016,South Carolina,SC,57,48,US President,"Stein, Jill",green,FALSE,13034,2103027
+2016,South Carolina,SC,57,48,US President,"Castle, Darrell L.",constitution party,FALSE,5765,2103027
+2016,South Carolina,SC,57,48,US President,"Skewes, Peter",american,FALSE,3246,2103027
+2016,South Dakota,SD,45,37,US President,"Trump, Donald J.",republican,FALSE,227721,370093
+2016,South Dakota,SD,45,37,US President,"Clinton, Hillary",democrat,FALSE,117458,370093
+2016,South Dakota,SD,45,37,US President,"Johnson, Gary",libertarian,FALSE,20850,370093
+2016,South Dakota,SD,45,37,US President,"Castle, Darrell L.",constitution party,FALSE,4064,370093
+2016,Tennessee,TN,62,54,US President,"Trump, Donald J.",republican,FALSE,1522925,2508027
+2016,Tennessee,TN,62,54,US President,"Clinton, Hillary",democrat,FALSE,870695,2508027
+2016,Texas,TX,74,49,US President,"Trump, Donald J.",republican,FALSE,4685047,8969226
+2016,Texas,TX,74,49,US President,"Clinton, Hillary",democrat,FALSE,3877868,8969226
+2016,Texas,TX,74,49,US President,"Johnson, Gary",libertarian,FALSE,283492,8969226
+2016,Texas,TX,74,49,US President,"Stein, Jill",green,FALSE,71558,8969226
+2016,Utah,UT,87,67,US President,"Trump, Donald J.",republican,FALSE,515211,1131317
+2016,Utah,UT,87,67,US President,"Clinton, Hillary",democrat,FALSE,310674,1131317
+2016,Utah,UT,87,67,US President,"McMullin, Evan",no party affiliation,FALSE,255060,1131317
+2016,Utah,UT,87,67,US President,"Johnson, Gary",libertarian,FALSE,39608,1131317
+2016,Utah,UT,87,67,US President,"Castle, Darrell L.",constitution party,FALSE,8032,1131317
+2016,Utah,UT,87,67,US President,"Kopitke, Kyle Kenley",independent american,FALSE,2732,1131317
+2016,Vermont,VT,13,6,US President,"Clinton, Hillary",democrat,FALSE,178573,320467
+2016,Vermont,VT,13,6,US President,"Trump, Donald J.",republican,FALSE,95369,320467
+2016,Vermont,VT,13,6,US President,"Johnson, Gary",libertarian,FALSE,10078,320467
+2016,Vermont,VT,13,6,US President,"Stein, Jill",green,FALSE,6758,320467
+2016,Vermont,VT,13,6,US President,Blank Vote,,FALSE,4574,320467
+2016,Vermont,VT,13,6,US President,"De La Fuente, Roque """"Rocky""""",independent,FALSE,1063,320467
+2016,Vermont,VT,13,6,US President,Void Vote,,FALSE,826,320467
+2016,Vermont,VT,13,6,US President,"La Riva, Gloria Estella",liberty union party,FALSE,327,320467
+2016,Virginia,VA,54,40,US President,"Clinton, Hillary",democrat,FALSE,1981473,3982752
+2016,Virginia,VA,54,40,US President,"Trump, Donald J.",republican,FALSE,1769443,3982752
+2016,Virginia,VA,54,40,US President,"Johnson, Gary",libertarian,FALSE,118274,3982752
+2016,Virginia,VA,54,40,US President,"McMullin, Evan",independent,FALSE,54054,3982752
+2016,Virginia,VA,54,40,US President,"Stein, Jill",green,FALSE,27638,3982752
+2016,Washington,WA,91,73,US President,"Clinton, Hillary",democrat,FALSE,1742718,3317019
+2016,Washington,WA,91,73,US President,"Trump, Donald J.",republican,FALSE,1221747,3317019
+2016,Washington,WA,91,73,US President,"Johnson, Gary",libertarian,FALSE,160879,3317019
+2016,Washington,WA,91,73,US President,"Stein, Jill",green,FALSE,58417,3317019
+2016,Washington,WA,91,73,US President,"Castle, Darrell L.",constitution party,FALSE,17623,3317019
+2016,Washington,WA,91,73,US President,"Kennedy, Alyson",socialist workers,FALSE,4307,3317019
+2016,Washington,WA,91,73,US President,"La Riva, Gloria Estella",socialism and liberation party,FALSE,3523,3317019
+2016,West Virginia,WV,55,56,US President,"Trump, Donald J.",republican,FALSE,489371,713051
+2016,West Virginia,WV,55,56,US President,"Clinton, Hillary",democrat,FALSE,188794,713051
+2016,West Virginia,WV,55,56,US President,"Johnson, Gary",libertarian,FALSE,23004,713051
+2016,West Virginia,WV,55,56,US President,"Stein, Jill",green,FALSE,8075,713051
+2016,West Virginia,WV,55,56,US President,"Castle, Darrell L.",constitution party,FALSE,3807,713051
+2016,Wisconsin,WI,35,25,US President,"Trump, Donald J.",republican,FALSE,1405284,2976150
+2016,Wisconsin,WI,35,25,US President,"Clinton, Hillary",democrat,FALSE,1382536,2976150
+2016,Wisconsin,WI,35,25,US President,"Johnson, Gary",libertarian,FALSE,106674,2976150
+2016,Wisconsin,WI,35,25,US President,"Stein, Jill",green,FALSE,31072,2976150
+2016,Wisconsin,WI,35,25,US President,Scattering,,FALSE,22764,2976150
+2016,Wisconsin,WI,35,25,US President,"Castle, Darrell L.",constitution party,FALSE,12162,2976150
+2016,Wisconsin,WI,35,25,US President,"Moorehead, Monica",workers world party,FALSE,1770,2976150
+2016,Wisconsin,WI,35,25,US President,"De La Fuente, Roque """"Rocky""""",american delta party,FALSE,1502,2976150
+2016,Wyoming,WY,83,68,US President,"Trump, Donald J.",republican,FALSE,174419,258788
+2016,Wyoming,WY,83,68,US President,"Clinton, Hillary",democrat,FALSE,55973,258788
+2016,Wyoming,WY,83,68,US President,"Johnson, Gary",libertarian,FALSE,13287,258788
+2016,Wyoming,WY,83,68,US President,Blank Vote,,FALSE,2661,258788
+2016,Wyoming,WY,83,68,US President,"Castle, Darrell L.",constitution party,FALSE,2042,258788
+2016,Wyoming,WY,83,68,US President,Over Vote,,FALSE,278,258788
