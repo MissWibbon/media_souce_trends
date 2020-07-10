@@ -52,7 +52,7 @@ d3.json(statesOutlineWithElection).then(function(electionData) {
         return {
           color: "white",
           fillColor: getColor(feature.properties.NAME),
-          fillOpacity: 0.8,
+          fillOpacity: 0.7,
           weight: 1.5
         };
       },
@@ -72,12 +72,12 @@ d3.json(statesOutlineWithElection).then(function(electionData) {
         mouseout: function(event) {
           layer = event.target;
           layer.setStyle({
-            fillOpacity: 0.8
+            fillOpacity: 0.7
           });
         },
       });
       // Giving each feature a pop-up with information pertinent to it
-      layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <h3>CNN Searches:%</h3> <br> <h3>Fox Searches:%</h3>`);
+      layer.bindPopup(`<h1>${feature.properties.NAME}</h1> <hr> <h3>CNN Searches: ${feature.properties.election_data ? parseFloat(feature.properties.election_data[YEAR][0]) : "Unknown"}%</h3> <h3>Fox Searches: ${feature.properties.election_data ? parseFloat(feature.properties.election_data[YEAR][1]) : "Unknown"}%</h3>`);
 
     }
   }).addTo(myMap);
