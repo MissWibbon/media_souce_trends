@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>CNN vs FOX interest over time</title>
+    <meta charset="UTF-8">
+        <link rel="stylesheet" href="/static/css/main.css">
+
+
+    <!-- Load jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  
+    <!-- Load Chart.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
+    
+
+    <!-- Load PapaParse to read csv files -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
+  </head>
+
+  <body>
+  <div class="go-back"><a href="/">Go Back</a></div>
+    <div>
+      <canvas id="chart-container" style="height: 400px; width: 100%"></canvas>
+    </div>
+    
+    <p style="font-family: Helvetica; color: #133; padding: 1em 2em; font-size: 12px">
+     
+      <br>
+      <a href="Timeline.csv">Data</a> from Google Trends
+      
+    </p>
+
+    <p>Numbers represent search interest relative to the highest point on the chart for the given region and time. <p>A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means there was not enough data for this term.</p>
+
+    </p>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="/static/js/app.js"></script>
+    <script type="text/javascript" src="/static/js/timeline.js"></script>
+
+  </body>
+
+</html>
+

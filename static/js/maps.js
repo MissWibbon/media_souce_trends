@@ -18,10 +18,11 @@ var myMap = L.map("map", {
 // Adding state outlines to maps
 
 var statesOutlineWithElection = "../static/js/statesOutlineWithElection.geojson"
-var YEAR = "2016"
+var YEAR = "2007"
 bluePct = {}
 
 // Grabbing our GeoJSON data..
+
 d3.json(statesOutlineWithElection).then(function(electionData) {
 
     electionData.features.forEach(function(data) {
@@ -77,7 +78,8 @@ d3.json(statesOutlineWithElection).then(function(electionData) {
         },
       });
       // Giving each feature a pop-up with information pertinent to it
-      layer.bindPopup(`<h1>${feature.properties.NAME}</h1> <hr> <h3>CNN Searches: ${feature.properties.election_data ? parseFloat(feature.properties.election_data[YEAR][0]) : "Unknown"}%</h3> <h3>Fox Searches: ${feature.properties.election_data ? parseFloat(feature.properties.election_data[YEAR][1]) : "Unknown"}%</h3>`);
+      layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <p>CNN Searches:%</p><p>Fox Searches:%</p>`);
+
 
     }
   }).addTo(myMap);
