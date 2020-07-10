@@ -3,11 +3,23 @@ body {
     background: #e7e7e7;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.container #map {height: 300px;}
+.timeline-link {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    text-decoration: underline;
+    transition: all .5s;
+    cursor: pointer;
+}
+.timeline-link:hover {
+    color: red;
+}
 .jumbotron {
     background-image: url(https://ak.picdn.net/shutterstock/videos/8877400/thumb/1.jpg);
     background-color: red;
     color: white;
-    padding: 2rem;
+    padding: .5rem;
     background-blend-mode: multiply;
     margin: -8px;
     margin-bottom: 0px;
@@ -41,3 +53,5 @@ body {
 #years {
     font-size: 20px;
 }
+.leaflet-popup-content h3 {text-align: center;}
+.go-back {padding: 1rem;}
