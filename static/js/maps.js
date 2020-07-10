@@ -77,7 +77,7 @@ d3.json(statesOutlineWithElection).then(function(electionData) {
         },
       });
       // Giving each feature a pop-up with information pertinent to it
-      layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <h3>CNN Searches:%</h3> <br> <h3>Fox Searches:%</h3>`);
+      layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <h3>CNN Searches:${feature.properties.election_data ? parseFloat(feature.properties.election_data[YEAR][0]) : "Unknown"}%</h3> <br> <h3>Fox Searches:${feature.properties.election_data ? parseFloat(feature.properties.election_data[YEAR][1]) : "Unknown"}%</h3>`);
 
     }
   }).addTo(myMap);
