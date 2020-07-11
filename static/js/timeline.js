@@ -23,6 +23,15 @@ $(document).ready(function() {
           pointHoverBackgroundColor: "#8A2BE2",
           pointHoverBorderColor: "#6495ED",
           pointRadius: 2
+        }, 
+
+        {
+          label: data[0][2] , 
+          data: data.slice(1).map(function(row) {return row[1]}), 
+          fill: false,
+          borderColor: "#CD5C5C",       
+          backgroundColor: "#CD5C5C",
+
         }
       )
     }
