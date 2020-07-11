@@ -1,45 +1,45 @@
-var TITLE = 'CNN and FOX interest over time';
-
-var X_AXIS = 'Year';  // x-axis label and label in tooltip
-var Y_AXIS = 'Percentage'; // y-axis label and label in tooltip
-
-var BEGIN_AT_ZERO = false;  // Should x-axis start from 0? `true` or `false`
-
-var SHOW_GRID = true; // `true` to show the grid, `false` to hide
-var SHOW_LEGEND = true; // `true` to show the legend, `false` to hide
-
-
+var TITLE = 'CNN and FOX interest over time'
+var X_AXIS = 'Year'  // x-axis label
+var Y_AXIS = 'Percentage' // y-axis label 
+var BEGIN_AT_ZERO = false;  
+var SHOW_GRID = true;
+var SHOW_LEGEND = true; 
 $(document).ready(function() {
-
   // Read data file and create a chart
-  $.get('../Timeline.csv', function(csvString) {
-
-    var data = Papa.parse(csvString).data;
-    var timeLabels = data.slice(1).map(function(row) { return row[0]; });
-
-    var datasets = [];
+  $.get('../Resources/Timeline.csv', function(csvString) {
+    var data = Papa.parse(csvString).data
+    var timeLabels = data.slice(1).map(function(row) { return row[0]; })
+    var datasets = []
     for (var i = 1; i < data[0].length; i++) {
       datasets.push(
         {
           label: data[0][i], 
           data: data.slice(1).map(function(row) {return row[i]}), 
-          fill: false 
+          fill: false,
+          borderColor: "#1E90FF",       
+          backgroundColor: "#1E90FF",
+          pointBackgroundColor: "#CD5C5C",
+          pointBorderColor: "#F5F5DC",
+          pointHoverBackgroundColor: "#8A2BE2",
+          pointHoverBorderColor: "#6495ED",
+          pointRadius: 2
         }
       )
     }
-
     // Get container for the chart
-    var ctx = document.getElementById('chart-container').getContext('2d');
-
-    new Chart(ctx, {
+    var ctx = document.getElementById('chart-container').getContext('2d')
+ new Chart(ctx, {
       type: 'line',
-
       data: {
         labels: timeLabels,
         datasets: datasets,
       },
-      
       options: {
+        plugins: {
+          colorschemes: {
+            scheme: 'brewer.RdBu4'
+          }
+        },
         title: {
           display: true,
           text: TITLE,
@@ -81,8 +81,9 @@ $(document).ready(function() {
             }
           }]
         },
+        // Tooltips
         tooltips: {
-          displayColors: false,
+          displayColors: true,
           callbacks: {
             label: function(tooltipItem, all) {
               return all.datasets[tooltipItem.datasetIndex].label
@@ -90,15 +91,7 @@ $(document).ready(function() {
             }
           }
         },
-        plugins: {
-          colorschemes: {
-            scheme: 'brewer.PuRd3'
-          }
-        }
       }
-    });
-
-  });
-
-});
-
+    })
+  })
+})

@@ -1,3 +1,9 @@
+
+d3.csv("../Resources/cnn_fox-trends.csv").then(function(trends) {
+    console.log(trends)
+})
+
+
 var year = 2020;
 
 function updateYear() {
