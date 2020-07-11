@@ -78,7 +78,7 @@ d3.json(statesOutlineWithElection).then(function(electionData) {
       },
     });
     // Giving each feature a pop-up with information pertinent to it
-    layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <p>CNN Searches: <strong style="color: blue;">${parseFloat(feature.properties.election_data[YEAR][0])}%</strong></p><p>Fox Searches: <strong style="color: red;">${parseFloat(feature.properties.election_data[YEAR][1])}$</strong></p>`);
+    layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <p>CNN Searches: <strong style="color: blue;">${parseFloat(feature.properties.election_data[YEAR][0])}%</strong></p><p>Fox Searches: <strong style="color: red;">${parseFloat(feature.properties.election_data[YEAR][1])}%</strong></p>`);
 
 
   }
