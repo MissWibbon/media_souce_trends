@@ -36,6 +36,17 @@
                           <option value="2019">2019</option>
                           <option value="2018">2018</option>
                           <option value="2017">2017</option>
+                          <option value="2016">2016</option>
+                          <option value="2015">2015</option>
+                          <option value="2014">2014</option>
+                          <option value="2013">2013</option>
+                          <option value="2012">2012</option>
+                          <option value="2011">2011</option>
+                          <option value="2010">2010</option>
+                          <option value="2009">2009</option>
+                          <option value="2008">2008</option>
+                          <option value="2007">2007</option>
+                          <option value="2006">2006</option>
                         </select>
                         <button id="year-selected">Update</button>
                         <div class="increment-label">Increment year every 5 seconds</div>
@@ -52,48 +63,7 @@
                   <div id="map"></div>
                     </div>
             <div>
-        <p>    
-            <table class="table">
-            
-        <?php
-            try {
-            $con= new PDO('mysql:host=localhost;dbname=political_trentds', "user", "pwd");
-            $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-            $query = "SELECT, Fraud Type, State, Name FROM electionFraud WHERE Year = year-selected";
-    
-            
-            print "<table> n";
-            $result = $con->query($query);
-            
-            
-            $row = $result->fetch(PDO::FETCH_ASSOC);
-            print " <tr> n";
-            foreach ($row as $field => $value){
-             print " <th>$field</th> n";
-            } 
-     
-            print " </tr> n";
-            
-            
-            $data = $con->query($query);
-            $data->setFetchMode(PDO::FETCH_ASSOC);
-            foreach($data as $row){
-            print " <tr> n";
-            foreach ($row as $name=>$value){
-            print " <td>$value</td> n";
-             } 
-             
-             
-             print " </tr> n";
-            } 
-            print "</table> n";
-            } 
-            catch(PDOException $e) {
-             echo 'ERROR: ' . $e->getMessage();
-            } 
-           ?>
-        </table>
-    </p>
+        
             <div>
                 <div id="timelinePlot"></div>
             </div>
