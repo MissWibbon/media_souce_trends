@@ -1,25 +1,24 @@
 
 
-
-
-var year = 2020;
+var YEAR = 2020;
 
 function updateYear() {
     $('#year-selected').on('click', function() {
-            year = $('#year option:selected').text()
-            $('.year-label')[0].innerText = year
+            YEAR = $('#year option:selected').text()
+            $('.year-label')[0].innerText = YEAR
 
     d3.json(statesOutlineWithElection).then(function(electionData) {
-
+        console.log(electionData)
         electionData.features.forEach(function(data) {
             var region = data.properties.NAME;
             //console.log(region);
-            var pct = parseFloat(data.properties.election_data ? data.properties.election_data[year][0] : 50);
+            var pct = parseFloat(data.properties.election_data ? data.properties.election_data[YEAR][0] : 50);
             bluePct[region] = pct;
         });
       
       
         function getColor(state) {
+            var color = "transparent"
             var color = "purple";
             var pct = bluePct[state];
       
@@ -33,7 +32,6 @@ function updateYear() {
             };
             return color;
         }
-      
         L.geoJson(electionData, {
           style: function(feature) {
             return {
@@ -63,12 +61,14 @@ function updateYear() {
               });
             },
           });
+          console.log(feature.properties)
           // Giving each feature a pop-up with information pertinent to it
-          layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <p>CNN Searches:%</p><p>Fox Searches:%</p>`);
+          layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <p>CNN Searches: <strong style="color: blue;">${parseFloat(feature.properties.election_data[YEAR][0])}%</strong></p><p>Fox Searches: <strong style="color: red;">${parseFloat(feature.properties.election_data[YEAR][1])}%</strong></p>`);
       
       
         }
       }).addTo(myMap);
+      layer.remove()
       });
     })
 }
