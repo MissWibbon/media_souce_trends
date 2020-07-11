@@ -20,7 +20,7 @@ var myMap = L.map("map", {
 // Adding state outlines to maps
 
 var statesOutlineWithVotes = "../static/js/statesOutlineWithVotes.geojson"
-var YEAR = "2016"
+var YEAR = "2020"
 topCandidate = {}
 
 // Grabbing our GeoJSON data..

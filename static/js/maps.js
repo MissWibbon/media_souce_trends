@@ -18,7 +18,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 // Adding state outlines to maps
 
 var statesOutlineWithElection = "../static/js/statesOutlineWithElection.geojson"
-var YEAR = "2009"
+var YEAR = "2020"
 bluePct = {}
 
 // Grabbing our GeoJSON data..
