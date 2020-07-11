@@ -1,7 +1,5 @@
 
-d3.csv("../Resources/cnn_fox-trends.csv").then(function(trends) {
-    console.log(trends)
-})
+
 
 
 var year = 2020;
@@ -9,7 +7,6 @@ var year = 2020;
 function updateYear() {
     $('#year-selected').on('click', function() {
             year = $('#year option:selected').text()
-            console.log(year)
             $('.year-label')[0].innerText = year
 
     d3.json(statesOutlineWithElection).then(function(electionData) {
@@ -49,7 +46,6 @@ function updateYear() {
       
         // Called on each feature
         onEachFeature: function(feature, layer) {
-          console.log(feature)
           // Set mouse events to change map styling
           layer.on({
             // When a user's mouse touches a map feature, the mouseover event calls this function, that feature's opacity changes to 90% so that it stands out
@@ -68,7 +64,7 @@ function updateYear() {
             },
           });
           // Giving each feature a pop-up with information pertinent to it
-          layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <p>CNN Searches:%${feature.properties.election_data.YEAR[0]}</p><p>Fox Searches:%${feature.properties.election_data[year][0]}</p>`);
+          layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <p>CNN Searches:%</p><p>Fox Searches:%</p>`);
       
       
         }

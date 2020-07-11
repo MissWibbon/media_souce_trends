@@ -60,7 +60,6 @@ d3.json(statesOutlineWithElection).then(function(electionData) {
 
   // Called on each feature
   onEachFeature: function(feature, layer) {
-    console.log(feature)
     // Set mouse events to change map styling
     layer.on({
       // When a user's mouse touches a map feature, the mouseover event calls this function, that feature's opacity changes to 90% so that it stands out
