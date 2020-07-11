@@ -13,8 +13,8 @@ $(document).ready(function() {
     for (var i = 1; i < data[0].length; i++) {
       datasets.push(
         {
-          label: data[0][i], 
-          data: data.slice(1).map(function(row) {return row[i]}), 
+          label: data[0][1], 
+          data: data.slice(1).map(function(row) {return row[1]}), 
           fill: false,
           borderColor: "#1E90FF",       
           backgroundColor: "#1E90FF",
@@ -23,14 +23,14 @@ $(document).ready(function() {
           pointHoverBackgroundColor: "#8A2BE2",
           pointHoverBorderColor: "#6495ED",
           pointRadius: 2
-        }, 
-
-        {
+        }, {
           label: data[0][2] , 
-          data: data.slice(1).map(function(row) {return row[1]}), 
+          data: data.slice(1).map(function(row) {return row[2]}), 
           fill: false,
-          borderColor: "#CD5C5C",       
+          borderColor: "#CD5C5C",   
+          borderRadius:1,    
           backgroundColor: "#CD5C5C",
+          pointRadius: 2
 
         }
       )
