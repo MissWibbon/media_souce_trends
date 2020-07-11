@@ -68,7 +68,7 @@ function updateYear() {
             },
           });
           // Giving each feature a pop-up with information pertinent to it
-          layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <p>CNN Searches:%</p><p>Fox Searches:%</p>`);
+          layer.bindPopup(`<h3>${feature.properties.NAME}</h3> <hr> <p>CNN Searches:%${feature.properties.election_data.YEAR[0]}</p><p>Fox Searches:%${feature.properties.election_data[year][0]}</p>`);
       
       
         }
