@@ -8,7 +8,8 @@ For this project, we used google trends data to investigate which was searched m
 - Analyze preferred method of voting (early, in-person, by mail)
 
 ### Visualizations of Search Trends:
-
+<img="https://github.com/MissWibbon/media_souce_trends/blob/master/images/SearchTrends.gif", width=500>  
+<img="https://github.com/MissWibbon/media_souce_trends/blob/master/images/SearchTrendsLine.png", width=500>
 
 ### Analysis:
 - Voting by mail and absentee has been continually increasing
